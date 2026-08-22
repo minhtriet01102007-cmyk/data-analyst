@@ -1,0 +1,1001 @@
+order_id,order_date,product_id,product_name,category,brand,customer_id,customer_name,city,quantity,unit_price,discount,revenue,cost,channel,payment_method
+DH00001,2025-11-24,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,2,13990000,0,27980000,21269779.0,Website,Chuyển khoản
+DH00002,2025-10-30,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,1,1190000,0,1190000,906636.0,Website,COD
+DH00003,2025-11-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,790000,0.08,726800.0,608359.0,Website,COD
+DH00004,2025-12-24,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,1,1190000,0,1190000,1061835.0,Lazada,Chuyển khoản
+DH00005,2025-02-17,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,1,1190000,0.03,1154300.0,986118.0,Website,Thẻ
+DH00006,2025-10-02,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,1,13990000,0.03,13570300.0,12161407.0,Lazada,COD
+DH00007,2025-12-27,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,2,13990000,0.03,27140600.0,25107570.0,Shopee,Chuyển khoản
+DH00008,2025-07-14,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,2,3290000,0.03,6382600.0,4930248.0,Lazada,COD
+DH00009,2025-12-10,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,2,3290000,0,6580000,5370235.0,Shopee,COD
+DH00010,2025-08-25,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,5,1190000,0.1,5355000.0,5021021.0,Shopee,Ví điện tử
+DH00011,2025-01-29,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,3,890000,0.05,2536500.0,2051076.0,Shopee,Ví điện tử
+DH00012,2025-04-19,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,3,990000,0.1,2673000.0,2383702.0,Lazada,COD
+DH00013,2025-05-07,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,790000,0.08,726800.0,629723.0,Cửa hàng,Ví điện tử
+DH00014,2025-04-23,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,2,520000,0,1040000,909998.0,Shopee,COD
+DH00015,2025-12-15,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,1,1190000,0.05,1130500.0,984439.0,Cửa hàng,Ví điện tử
+DH00016,2025-10-11,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,2,15990000,0.08,29421600.0,27347953.0,Lazada,Chuyển khoản
+DH00017,2025-05-31,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,2,1190000,0.1,2142000.0,2088815.0,Lazada,COD
+DH00018,2025-09-17,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,3,13990000,0.08,38612400.0,34818926.0,Shopee,Ví điện tử
+DH00019,2025-03-24,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,4,790000,0.08,2907200.0,2459580.0,Website,Chuyển khoản
+DH00020,2025-07-05,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0.08,3026800.0,2929583.0,Website,Thẻ
+DH00021,2025-02-05,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,790000,0.05,750500.0,703442.0,Shopee,Ví điện tử
+DH00022,2025-09-28,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,4,1790000,0.08,6587200.0,6128586.0,Shopee,Ví điện tử
+DH00023,2025-07-24,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,3,3490000,0.05,9946500.0,7766445.0,Shopee,Chuyển khoản
+DH00024,2025-06-23,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH010,Phan Mỹ Linh,Huế,2,15990000,0.08,29421600.0,24293259.0,Website,Chuyển khoản
+DH00025,2025-04-28,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,3,13990000,0,41970000,34102644.0,Lazada,Thẻ
+DH00026,2025-04-20,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,2,790000,0.08,1453600.0,1301475.0,Shopee,Thẻ
+DH00027,2025-07-28,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,890000,0.05,845500.0,697558.0,Cửa hàng,Thẻ
+DH00028,2025-01-28,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,1,13990000,0.03,13570300.0,12088852.0,Website,COD
+DH00029,2025-04-09,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0.05,845500.0,670195.0,Cửa hàng,COD
+DH00030,2025-02-08,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,1,990000,0.1,891000.0,890872.0,Website,Chuyển khoản
+DH00031,2025-05-02,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,520000,0,1040000,910663.0,Website,COD
+DH00032,2025-07-14,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,1,15990000,0.05,15190500.0,12333804.0,Cửa hàng,COD
+DH00033,2025-04-08,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,4,3290000,0.08,12107200.0,11218014.0,Website,Ví điện tử
+DH00034,2025-01-30,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH010,Phan Mỹ Linh,Huế,2,15990000,0.08,29421600.0,23931846.0,Website,COD
+DH00035,2025-02-05,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,2,1790000,0,3580000,2837793.0,Shopee,Chuyển khoản
+DH00036,2025-11-14,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,2,13990000,0.08,25741600.0,22778543.0,Lazada,COD
+DH00037,2025-12-09,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3490000,0,3490000,2934756.0,Lazada,Thẻ
+DH00038,2025-06-11,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,2,13990000,0.08,25741600.0,25162340.0,Website,COD
+DH00039,2025-09-17,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,4,3290000,0,13160000,11558015.0,Lazada,Ví điện tử
+DH00040,2025-03-22,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,2,990000,0.08,1821600.0,1776245.0,Website,Ví điện tử
+DH00041,2025-12-06,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,1,13990000,0,13990000,11942354.0,Shopee,Ví điện tử
+DH00042,2025-05-25,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,2,1790000,0,3580000,3020623.0,Lazada,Thẻ
+DH00043,2025-05-09,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,2,15990000,0.03,31020600.0,23279381.0,Lazada,COD
+DH00044,2025-11-23,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,2,3290000,0.08,6053600.0,5573393.0,Website,Chuyển khoản
+DH00045,2025-02-08,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,520000,0.03,504400.0,428923.0,Shopee,Thẻ
+DH00046,2025-03-07,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,1,15990000,0,15990000,14100085.0,Shopee,COD
+DH00047,2025-12-08,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,3,13990000,0.05,39871500.0,37575349.0,Shopee,COD
+DH00048,2025-03-25,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,520000,0.1,468000.0,460932.0,Cửa hàng,COD
+DH00049,2025-05-17,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,520000,0,520000,454764.0,Shopee,COD
+DH00050,2025-08-24,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,3,3490000,0,10470000,7958522.0,Shopee,Thẻ
+DH00051,2025-06-18,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,4,3290000,0.03,12765200.0,10306995.0,Cửa hàng,Ví điện tử
+DH00052,2025-01-15,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,1,13990000,0.03,13570300.0,10169139.0,Cửa hàng,Ví điện tử
+DH00053,2025-06-10,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,5,1190000,0,5950000,4696544.0,Shopee,Ví điện tử
+DH00054,2025-01-23,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1190000,0.08,2189600.0,2007850.0,Shopee,Ví điện tử
+DH00055,2025-08-09,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,2,13990000,0.1,25182000.0,24416544.0,Lazada,Ví điện tử
+DH00056,2025-12-08,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,1,1190000,0.03,1154300.0,975555.0,Shopee,Thẻ
+DH00057,2025-12-07,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,2,1190000,0.03,2308600.0,1887563.0,Website,Ví điện tử
+DH00058,2025-05-27,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,3,890000,0.08,2456400.0,2237052.0,Cửa hàng,Thẻ
+DH00059,2025-08-15,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,2,890000,0.1,1602000.0,1335969.0,Website,Ví điện tử
+DH00060,2025-09-21,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,1,1790000,0,1790000,1505575.0,Shopee,COD
+DH00061,2025-03-17,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,1,15990000,0.05,15190500.0,13272169.0,Website,Thẻ
+DH00062,2025-08-01,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,2,1790000,0.05,3401000.0,2896177.0,Shopee,COD
+DH00063,2025-12-02,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,3,15990000,0,47970000,36057111.0,Cửa hàng,Chuyển khoản
+DH00064,2025-10-13,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,2,890000,0.05,1691000.0,1495492.0,Lazada,Thẻ
+DH00065,2025-11-10,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,3,790000,0.08,2180400.0,1896627.0,Shopee,Thẻ
+DH00066,2025-08-19,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,3,3290000,0.03,9573900.0,8466945.0,Cửa hàng,COD
+DH00067,2025-05-21,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,2,990000,0,1980000,1522439.0,Lazada,Chuyển khoản
+DH00068,2025-03-12,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,520000,0,520000,440521.0,Website,Thẻ
+DH00069,2025-07-28,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0,6980000,5285467.0,Cửa hàng,Thẻ
+DH00070,2025-10-27,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH010,Phan Mỹ Linh,Huế,1,15990000,0,15990000,14226199.0,Lazada,Thẻ
+DH00071,2025-08-03,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,3,790000,0,2370000,1914679.0,Lazada,Thẻ
+DH00072,2025-09-06,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,1,15990000,0.1,14391000.0,13810013.0,Shopee,Thẻ
+DH00073,2025-03-07,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,1,1790000,0.05,1700500.0,1479508.0,Website,Chuyển khoản
+DH00074,2025-11-26,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,3,1190000,0,3570000,2602713.0,Cửa hàng,Ví điện tử
+DH00075,2025-04-19,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0.05,940500.0,762385.0,Cửa hàng,Ví điện tử
+DH00076,2025-02-11,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,2,990000,0,1980000,1781967.0,Lazada,COD
+DH00077,2025-11-29,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,3,13990000,0,41970000,31724490.0,Website,COD
+DH00078,2025-05-03,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,520000,0.08,956800.0,926220.0,Cửa hàng,Ví điện tử
+DH00079,2025-07-08,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,520000,0.1,936000.0,883276.0,Shopee,Ví điện tử
+DH00080,2025-02-25,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,4,1790000,0.08,6587200.0,6028165.0,Cửa hàng,Thẻ
+DH00081,2025-04-12,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH010,Phan Mỹ Linh,Huế,2,13990000,0.1,25182000.0,21368687.0,Lazada,Chuyển khoản
+DH00082,2025-10-17,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,2,15990000,0.1,28782000.0,25158754.0,Lazada,Chuyển khoản
+DH00083,2025-08-04,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0.03,960300.0,826061.0,Cửa hàng,COD
+DH00084,2025-08-11,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,4,520000,0.03,2017600.0,1728198.0,Cửa hàng,Thẻ
+DH00085,2025-08-12,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,1,1790000,0,1790000,1556462.0,Website,Ví điện tử
+DH00086,2025-08-19,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,890000,0.1,1602000.0,1403028.0,Website,Thẻ
+DH00087,2025-06-16,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,520000,0.03,504400.0,406256.0,Lazada,Chuyển khoản
+DH00088,2025-09-22,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,890000,0.05,845500.0,719070.0,Shopee,Thẻ
+DH00089,2025-11-27,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,3,990000,0,2970000,2295698.0,Cửa hàng,COD
+DH00090,2025-06-06,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,2,1790000,0.08,3293600.0,2799117.0,Lazada,Ví điện tử
+DH00091,2025-12-26,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH005,Võ Thành Đạt,Cần Thơ,1,990000,0,990000,734301.0,Shopee,Ví điện tử
+DH00092,2025-03-03,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,790000,0.1,711000.0,637653.0,Lazada,Chuyển khoản
+DH00093,2025-04-10,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0.03,3191300.0,2377179.0,Shopee,Ví điện tử
+DH00094,2025-01-24,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,1,15990000,0,15990000,13348716.0,Cửa hàng,Chuyển khoản
+DH00095,2025-01-07,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,2,1790000,0.05,3401000.0,2797151.0,Website,Ví điện tử
+DH00096,2025-09-02,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,1,13990000,0,13990000,11525855.0,Website,COD
+DH00097,2025-03-18,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,1,1790000,0,1790000,1326965.0,Cửa hàng,COD
+DH00098,2025-09-25,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,4,1190000,0.03,4617200.0,4164191.0,Cửa hàng,Ví điện tử
+DH00099,2025-10-19,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1790000,0.1,3222000.0,2641546.0,Shopee,COD
+DH00100,2025-05-16,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,1,13990000,0.08,12870800.0,10261828.0,Website,Thẻ
+DH00101,2025-08-19,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,1,1790000,0,1790000,1381627.0,Lazada,Thẻ
+DH00102,2025-02-06,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,3,890000,0.1,2403000.0,2205853.0,Shopee,Thẻ
+DH00103,2025-02-28,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,2,790000,0.03,1532600.0,1372694.0,Website,Chuyển khoản
+DH00104,2025-03-26,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,2,3290000,0.08,6053600.0,5828660.0,Cửa hàng,Chuyển khoản
+DH00105,2025-08-28,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,4,3290000,0.08,12107200.0,10754308.0,Cửa hàng,Chuyển khoản
+DH00106,2025-11-03,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,2,15990000,0.08,29421600.0,24466818.0,Website,COD
+DH00107,2025-12-12,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,4,1790000,0.1,6444000.0,6213848.0,Website,COD
+DH00108,2025-08-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,4,790000,0,3160000,2842263.0,Cửa hàng,Thẻ
+DH00109,2025-02-16,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0.03,960300.0,832218.0,Shopee,Ví điện tử
+DH00110,2025-07-30,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH005,Võ Thành Đạt,Cần Thơ,2,990000,0.05,1881000.0,1715555.0,Website,Thẻ
+DH00111,2025-02-15,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0.05,3315500.0,3056137.0,Website,Thẻ
+DH00112,2025-07-31,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,2,15990000,0.08,29421600.0,27379989.0,Cửa hàng,Chuyển khoản
+DH00113,2025-04-15,SP005,Màn hình LG 24MP400,Màn hình,LG,KH009,Hoàng Gia Huy,Đà Nẵng,1,3290000,0.03,3191300.0,2628252.0,Cửa hàng,Chuyển khoản
+DH00114,2025-01-15,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,2,1790000,0.03,3472600.0,2932561.0,Cửa hàng,Chuyển khoản
+DH00115,2025-04-26,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,4,13990000,0.1,50364000.0,48673212.0,Cửa hàng,Ví điện tử
+DH00116,2025-09-18,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,3,3290000,0.05,9376500.0,7539412.0,Shopee,Thẻ
+DH00117,2025-04-08,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,2,1790000,0,3580000,3134379.0,Lazada,Thẻ
+DH00118,2025-06-24,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,3,790000,0.03,2298900.0,2016133.0,Cửa hàng,COD
+DH00119,2025-08-17,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,790000,0.08,726800.0,677280.0,Cửa hàng,Thẻ
+DH00120,2025-06-14,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,2,890000,0,1780000,1555867.0,Cửa hàng,Chuyển khoản
+DH00121,2025-06-12,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,1,990000,0.1,891000.0,854005.0,Shopee,Thẻ
+DH00122,2025-01-19,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,4,520000,0.03,2017600.0,1823216.0,Cửa hàng,Chuyển khoản
+DH00123,2025-09-27,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,2,990000,0.05,1881000.0,1736001.0,Shopee,Chuyển khoản
+DH00124,2025-08-29,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,2,3290000,0.05,6251000.0,5507267.0,Lazada,Thẻ
+DH00125,2025-06-12,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,1,990000,0,990000,754636.0,Lazada,COD
+DH00126,2025-02-16,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,3,1190000,0.1,3213000.0,3131119.0,Cửa hàng,COD
+DH00127,2025-12-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3290000,0,3290000,2542532.0,Lazada,Thẻ
+DH00128,2025-03-16,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0.1,801000.0,767762.0,Shopee,COD
+DH00129,2025-02-10,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,2,1790000,0,3580000,2898297.0,Shopee,COD
+DH00130,2025-08-25,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,1,3290000,0,3290000,2901134.0,Cửa hàng,Ví điện tử
+DH00131,2025-12-13,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,790000,0.03,766300.0,709244.0,Lazada,Thẻ
+DH00132,2025-12-20,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,3,3290000,0,9870000,8881887.0,Cửa hàng,Chuyển khoản
+DH00133,2025-05-02,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,1,1190000,0.03,1154300.0,1069435.0,Lazada,Chuyển khoản
+DH00134,2025-12-04,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,1,1190000,0.1,1071000.0,1023514.0,Website,Thẻ
+DH00135,2025-05-27,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,3,890000,0,2670000,2228359.0,Lazada,COD
+DH00136,2025-11-18,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,1,13990000,0.05,13290500.0,10156819.0,Lazada,COD
+DH00137,2025-02-16,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,2,3290000,0,6580000,4975421.0,Lazada,Ví điện tử
+DH00138,2025-03-26,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,4,3290000,0.03,12765200.0,11243650.0,Lazada,Chuyển khoản
+DH00139,2025-08-28,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,3,13990000,0,41970000,36716418.0,Cửa hàng,Ví điện tử
+DH00140,2025-02-16,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,1,1190000,0,1190000,954215.0,Lazada,Thẻ
+DH00141,2025-11-23,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,2,3490000,0.05,6631000.0,5057041.0,Lazada,COD
+DH00142,2025-11-28,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,4,13990000,0.03,54281200.0,46830859.0,Website,COD
+DH00143,2025-01-24,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,5,15990000,0,79950000,58962690.0,Shopee,Thẻ
+DH00144,2025-08-21,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,1,3490000,0.1,3141000.0,2969250.0,Cửa hàng,Chuyển khoản
+DH00145,2025-09-08,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,4,1790000,0.03,6945200.0,5197365.0,Lazada,COD
+DH00146,2025-08-16,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,3,990000,0,2970000,2662804.0,Lazada,Ví điện tử
+DH00147,2025-02-01,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,1,1190000,0,1190000,1060078.0,Cửa hàng,Chuyển khoản
+DH00148,2025-12-06,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,5,890000,0,4450000,3834222.0,Shopee,COD
+DH00149,2025-10-17,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,3,890000,0.08,2456400.0,2021960.0,Shopee,COD
+DH00150,2025-06-18,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,520000,0,520000,466833.0,Lazada,COD
+DH00151,2025-02-26,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH003,Lê Hoàng Nam,TP.HCM,1,15990000,0,15990000,13207636.0,Website,COD
+DH00152,2025-05-16,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH003,Lê Hoàng Nam,TP.HCM,2,15990000,0.08,29421600.0,23679811.0,Website,Thẻ
+DH00153,2025-08-18,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0.05,6631000.0,5658623.0,Website,Ví điện tử
+DH00154,2025-08-23,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,5,15990000,0.05,75952500.0,63698504.0,Website,Thẻ
+DH00155,2025-12-31,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,3,990000,0.03,2880900.0,2463596.0,Website,COD
+DH00156,2025-05-21,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,2,1790000,0.03,3472600.0,2823055.0,Lazada,Thẻ
+DH00157,2025-09-16,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,1,1790000,0.1,1611000.0,1325664.0,Shopee,Thẻ
+DH00158,2025-08-20,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,890000,0.05,845500.0,704677.0,Website,Ví điện tử
+DH00159,2025-08-07,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0,3490000,2944261.0,Cửa hàng,Chuyển khoản
+DH00160,2025-02-16,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,1,13990000,0.1,12591000.0,11933236.0,Shopee,Chuyển khoản
+DH00161,2025-10-28,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,790000,0,790000,627217.0,Cửa hàng,Chuyển khoản
+DH00162,2025-05-28,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,1,1790000,0.08,1646800.0,1452288.0,Shopee,Thẻ
+DH00163,2025-04-25,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,3,13990000,0.03,40710900.0,31086313.0,Lazada,COD
+DH00164,2025-08-08,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,790000,0.1,1422000.0,1295937.0,Lazada,Chuyển khoản
+DH00165,2025-04-03,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,4,3290000,0.03,12765200.0,9489663.0,Shopee,Thẻ
+DH00166,2025-02-05,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0.08,478400.0,394536.0,Cửa hàng,Thẻ
+DH00167,2025-06-24,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,520000,0.03,504400.0,447112.0,Website,Chuyển khoản
+DH00168,2025-03-21,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,520000,0,520000,399869.0,Cửa hàng,Thẻ
+DH00169,2025-11-07,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,1,990000,0.08,910800.0,733082.0,Cửa hàng,Chuyển khoản
+DH00170,2025-05-26,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,2,1790000,0.03,3472600.0,2606867.0,Cửa hàng,Chuyển khoản
+DH00171,2025-01-04,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,4,890000,0,3560000,3052874.0,Lazada,Ví điện tử
+DH00172,2025-03-03,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH008,Nguyễn Khánh Vy,TP.HCM,2,15990000,0,31980000,23769245.0,Shopee,Ví điện tử
+DH00173,2025-02-06,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,1,1190000,0.05,1130500.0,1054113.0,Lazada,Thẻ
+DH00174,2025-10-21,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0.05,1130500.0,861267.0,Lazada,COD
+DH00175,2025-11-13,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0,990000,756159.0,Cửa hàng,Chuyển khoản
+DH00176,2025-07-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,1,3290000,0,3290000,2414032.0,Website,COD
+DH00177,2025-06-28,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0,3490000,2673599.0,Shopee,COD
+DH00178,2025-12-02,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,4,13990000,0.1,50364000.0,45268342.0,Cửa hàng,Ví điện tử
+DH00179,2025-11-18,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0.05,3315500.0,2790595.0,Lazada,Ví điện tử
+DH00180,2025-10-30,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,2,15990000,0.03,31020600.0,25683574.0,Website,Chuyển khoản
+DH00181,2025-07-08,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,2,3290000,0,6580000,5466016.0,Cửa hàng,Thẻ
+DH00182,2025-10-25,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,790000,0.08,726800.0,661491.0,Lazada,Thẻ
+DH00183,2025-09-14,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,2,520000,0.03,1008800.0,932703.0,Website,COD
+DH00184,2025-01-21,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,5,890000,0.08,4094000.0,3622721.0,Shopee,Ví điện tử
+DH00185,2025-07-10,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,1,3290000,0.03,3191300.0,2770843.0,Website,Ví điện tử
+DH00186,2025-02-03,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,2,3490000,0.05,6631000.0,5382602.0,Shopee,Ví điện tử
+DH00187,2025-02-11,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,4,1790000,0.03,6945200.0,6402367.0,Cửa hàng,COD
+DH00188,2025-11-01,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,2,13990000,0.1,25182000.0,24132726.0,Shopee,Chuyển khoản
+DH00189,2025-11-27,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH009,Hoàng Gia Huy,Đà Nẵng,1,1190000,0.03,1154300.0,922959.0,Shopee,Ví điện tử
+DH00190,2025-09-06,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,5,890000,0,4450000,3265809.0,Website,Chuyển khoản
+DH00191,2025-12-05,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,1,3490000,0.05,3315500.0,2609702.0,Shopee,COD
+DH00192,2025-08-13,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,1,15990000,0.1,14391000.0,12196459.0,Cửa hàng,Ví điện tử
+DH00193,2025-08-18,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0.05,845500.0,785617.0,Shopee,Ví điện tử
+DH00194,2025-12-14,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,2,1790000,0.03,3472600.0,3079023.0,Cửa hàng,COD
+DH00195,2025-04-13,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,3,1790000,0,5370000,4486164.0,Lazada,Chuyển khoản
+DH00196,2025-12-31,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,790000,0,790000,607591.0,Shopee,Thẻ
+DH00197,2025-02-16,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,3,890000,0,2670000,2121799.0,Cửa hàng,Ví điện tử
+DH00198,2025-05-01,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,1,1190000,0,1190000,925062.0,Website,Ví điện tử
+DH00199,2025-03-16,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0.05,494000.0,439552.0,Shopee,Thẻ
+DH00200,2025-08-18,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,4,1790000,0,7160000,5485035.0,Shopee,Thẻ
+DH00201,2025-02-26,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2510004.0,Cửa hàng,Chuyển khoản
+DH00202,2025-02-26,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,2,990000,0.1,1782000.0,1609280.0,Shopee,COD
+DH00203,2025-05-30,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1190000,0,2380000,1958072.0,Shopee,Chuyển khoản
+DH00204,2025-09-26,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,4,3490000,0.08,12843200.0,11326013.0,Website,Thẻ
+DH00205,2025-08-29,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,5,15990000,0.03,77551500.0,68318633.0,Lazada,Chuyển khoản
+DH00206,2025-06-26,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,3,890000,0.1,2403000.0,2286060.0,Shopee,Chuyển khoản
+DH00207,2025-06-30,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,3,790000,0,2370000,2060642.0,Cửa hàng,Thẻ
+DH00208,2025-11-20,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,520000,0.05,494000.0,377862.0,Shopee,Chuyển khoản
+DH00209,2025-04-13,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,4,15990000,0.08,58843200.0,50635874.0,Cửa hàng,Ví điện tử
+DH00210,2025-01-19,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,890000,0,890000,779501.0,Lazada,Ví điện tử
+DH00211,2025-03-05,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,3,3490000,0.1,9423000.0,8367128.0,Cửa hàng,Ví điện tử
+DH00212,2025-04-06,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,1,990000,0.08,910800.0,760330.0,Website,Thẻ
+DH00213,2025-02-10,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,5,1190000,0,5950000,4868203.0,Lazada,Chuyển khoản
+DH00214,2025-02-10,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0.08,3210800.0,2963636.0,Shopee,Thẻ
+DH00215,2025-06-29,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,2,990000,0.03,1920600.0,1644733.0,Cửa hàng,Ví điện tử
+DH00216,2025-11-24,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,2,15990000,0.05,30381000.0,25116964.0,Shopee,Chuyển khoản
+DH00217,2025-03-15,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,1,1790000,0,1790000,1364838.0,Lazada,Ví điện tử
+DH00218,2025-07-16,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1790000,0.1,3222000.0,2867530.0,Lazada,Ví điện tử
+DH00219,2025-08-16,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH010,Phan Mỹ Linh,Huế,1,13990000,0.03,13570300.0,11075129.0,Lazada,COD
+DH00220,2025-02-28,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH003,Lê Hoàng Nam,TP.HCM,2,15990000,0.05,30381000.0,28284316.0,Website,Ví điện tử
+DH00221,2025-05-14,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,5,990000,0.03,4801500.0,4182337.0,Cửa hàng,COD
+DH00222,2025-03-04,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,2,520000,0.1,936000.0,832125.0,Website,Ví điện tử
+DH00223,2025-12-08,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,2,3490000,0.03,6770600.0,6145469.0,Shopee,COD
+DH00224,2025-07-05,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,790000,0,790000,681432.0,Shopee,Thẻ
+DH00225,2025-01-14,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0.05,6631000.0,6035321.0,Shopee,Chuyển khoản
+DH00226,2025-02-03,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,5,3290000,0.1,14805000.0,13261327.0,Cửa hàng,Thẻ
+DH00227,2025-10-22,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,5,13990000,0.1,62955000.0,51297812.0,Cửa hàng,Ví điện tử
+DH00228,2025-03-07,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,790000,0,790000,630318.0,Website,Chuyển khoản
+DH00229,2025-09-23,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,520000,0.03,504400.0,461891.0,Shopee,Ví điện tử
+DH00230,2025-09-23,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0.1,2961000.0,2935151.0,Lazada,COD
+DH00231,2025-11-17,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,2,3290000,0.08,6053600.0,5496786.0,Shopee,COD
+DH00232,2025-12-04,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,1,1790000,0.08,1646800.0,1302073.0,Website,Chuyển khoản
+DH00233,2025-01-24,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,2,1790000,0.08,3293600.0,2846049.0,Website,Thẻ
+DH00234,2025-11-18,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,790000,0.03,1532600.0,1274950.0,Cửa hàng,Ví điện tử
+DH00235,2025-08-21,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,1,13990000,0.05,13290500.0,11292241.0,Shopee,Ví điện tử
+DH00236,2025-11-07,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,3,520000,0.03,1513200.0,1329363.0,Lazada,Thẻ
+DH00237,2025-03-08,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0.03,6770600.0,5329319.0,Website,Ví điện tử
+DH00238,2025-08-19,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,890000,0.03,863300.0,792251.0,Cửa hàng,COD
+DH00239,2025-03-23,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,2,3490000,0,6980000,5984386.0,Cửa hàng,Thẻ
+DH00240,2025-09-13,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,1,3290000,0.05,3125500.0,2668124.0,Shopee,COD
+DH00241,2025-10-26,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0.05,3315500.0,2888161.0,Cửa hàng,Ví điện tử
+DH00242,2025-10-02,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,1,15990000,0.03,15510300.0,13606714.0,Cửa hàng,Ví điện tử
+DH00243,2025-01-24,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1190000,0,2380000,1868905.0,Lazada,Chuyển khoản
+DH00244,2025-07-17,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,3,790000,0.03,2298900.0,2058478.0,Website,COD
+DH00245,2025-02-19,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,3,1190000,0.03,3462900.0,2928863.0,Lazada,COD
+DH00246,2025-04-12,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,1,1790000,0,1790000,1303397.0,Shopee,Ví điện tử
+DH00247,2025-08-31,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,790000,0.08,726800.0,588677.0,Lazada,COD
+DH00248,2025-07-21,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,2,1790000,0.08,3293600.0,3111350.0,Cửa hàng,Ví điện tử
+DH00249,2025-09-01,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,1,15990000,0,15990000,14333143.0,Lazada,Chuyển khoản
+DH00250,2025-11-02,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH005,Võ Thành Đạt,Cần Thơ,4,990000,0.08,3643200.0,3262938.0,Website,Thẻ
+DH00251,2025-03-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,3,790000,0.05,2251500.0,1769441.0,Shopee,Chuyển khoản
+DH00252,2025-10-21,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH004,Phạm Ngọc Lan,Đà Nẵng,1,13990000,0.03,13570300.0,11127373.0,Cửa hàng,COD
+DH00253,2025-07-30,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,4,790000,0.1,2844000.0,2688946.0,Shopee,COD
+DH00254,2025-10-15,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,2,3490000,0.03,6770600.0,6227580.0,Cửa hàng,Ví điện tử
+DH00255,2025-10-07,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,2,3490000,0,6980000,6228399.0,Lazada,Ví điện tử
+DH00256,2025-04-26,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,2,3290000,0.1,5922000.0,5572588.0,Lazada,Thẻ
+DH00257,2025-06-28,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,790000,0.08,726800.0,665016.0,Cửa hàng,Thẻ
+DH00258,2025-06-26,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,520000,0.1,468000.0,381797.0,Cửa hàng,Ví điện tử
+DH00259,2025-09-03,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,3,890000,0.03,2589900.0,2370811.0,Lazada,COD
+DH00260,2025-02-25,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,1,1790000,0,1790000,1504621.0,Shopee,COD
+DH00261,2025-01-27,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,1,13990000,0.05,13290500.0,10325992.0,Shopee,Chuyển khoản
+DH00262,2025-10-09,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,520000,0.05,988000.0,838178.0,Shopee,Ví điện tử
+DH00263,2025-06-14,SP005,Màn hình LG 24MP400,Màn hình,LG,KH001,Nguyễn Minh Anh,Đà Nẵng,4,3290000,0,13160000,11020365.0,Shopee,Chuyển khoản
+DH00264,2025-03-31,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,4,1190000,0,4760000,4281577.0,Cửa hàng,Thẻ
+DH00265,2025-04-06,SP005,Màn hình LG 24MP400,Màn hình,LG,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3290000,0.08,3026800.0,2725768.0,Lazada,Ví điện tử
+DH00266,2025-08-21,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,2,790000,0,1580000,1379641.0,Cửa hàng,Ví điện tử
+DH00267,2025-04-09,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,1,13990000,0.05,13290500.0,11705312.0,Shopee,Chuyển khoản
+DH00268,2025-06-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,2,3290000,0,6580000,4945456.0,Cửa hàng,Thẻ
+DH00269,2025-09-21,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,1,3490000,0,3490000,2628880.0,Shopee,Thẻ
+DH00270,2025-06-15,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,890000,0,890000,712367.0,Lazada,Ví điện tử
+DH00271,2025-06-04,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,1,1790000,0.1,1611000.0,1404648.0,Shopee,Chuyển khoản
+DH00272,2025-12-08,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,1,13990000,0.05,13290500.0,11800471.0,Lazada,Chuyển khoản
+DH00273,2025-11-24,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,2,3290000,0,6580000,5871498.0,Cửa hàng,COD
+DH00274,2025-08-21,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,1,1790000,0.08,1646800.0,1582903.0,Shopee,COD
+DH00275,2025-12-15,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,2,1790000,0.08,3293600.0,3031107.0,Website,Chuyển khoản
+DH00276,2025-02-01,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,790000,0.08,726800.0,590109.0,Lazada,Thẻ
+DH00277,2025-03-01,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,890000,0.08,1637600.0,1424333.0,Website,Thẻ
+DH00278,2025-03-09,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,790000,0,1580000,1296522.0,Lazada,Chuyển khoản
+DH00279,2025-07-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH001,Nguyễn Minh Anh,Đà Nẵng,2,3290000,0.08,6053600.0,4824096.0,Cửa hàng,Ví điện tử
+DH00280,2025-12-25,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,5,13990000,0,69950000,62780454.0,Cửa hàng,Chuyển khoản
+DH00281,2025-05-27,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,3,1190000,0.1,3213000.0,3199077.0,Cửa hàng,Ví điện tử
+DH00282,2025-07-15,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,1,990000,0.1,891000.0,884611.0,Shopee,Ví điện tử
+DH00283,2025-03-02,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,520000,0,520000,442528.0,Shopee,Chuyển khoản
+DH00284,2025-01-12,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,2,3290000,0.08,6053600.0,5239937.0,Cửa hàng,COD
+DH00285,2025-05-07,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0,990000,879847.0,Website,Chuyển khoản
+DH00286,2025-12-05,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,3,1190000,0,3570000,2725052.0,Website,Chuyển khoản
+DH00287,2025-11-01,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH008,Nguyễn Khánh Vy,TP.HCM,2,15990000,0.1,28782000.0,28046404.0,Shopee,Chuyển khoản
+DH00288,2025-07-25,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,2,990000,0,1980000,1475544.0,Lazada,COD
+DH00289,2025-10-22,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,2,3490000,0.1,6282000.0,6053816.0,Shopee,Ví điện tử
+DH00290,2025-03-15,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,790000,0.03,766300.0,577468.0,Shopee,Thẻ
+DH00291,2025-10-12,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,5,990000,0.1,4455000.0,4162166.0,Lazada,Thẻ
+DH00292,2025-07-29,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,520000,0.08,478400.0,418721.0,Shopee,Ví điện tử
+DH00293,2025-12-29,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,4,520000,0.08,1913600.0,1652106.0,Cửa hàng,COD
+DH00294,2025-07-18,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,890000,0.1,801000.0,653467.0,Cửa hàng,Ví điện tử
+DH00295,2025-02-17,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,790000,0.05,750500.0,664596.0,Website,Chuyển khoản
+DH00296,2025-04-07,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,1,1790000,0,1790000,1568944.0,Lazada,Ví điện tử
+DH00297,2025-01-08,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,4,890000,0,3560000,3041800.0,Cửa hàng,COD
+DH00298,2025-12-23,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,1,1790000,0,1790000,1466680.0,Lazada,Thẻ
+DH00299,2025-08-27,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,790000,0.03,766300.0,641723.0,Cửa hàng,Thẻ
+DH00300,2025-02-20,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,4,990000,0.03,3841200.0,3074251.0,Website,COD
+DH00301,2025-03-16,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,2,15990000,0.08,29421600.0,26359378.0,Cửa hàng,Ví điện tử
+DH00302,2025-03-20,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,890000,0.08,818800.0,774305.0,Cửa hàng,Ví điện tử
+DH00303,2025-05-12,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,2,990000,0.1,1782000.0,1708929.0,Shopee,COD
+DH00304,2025-10-07,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,4,990000,0.08,3643200.0,3557103.0,Website,Chuyển khoản
+DH00305,2025-02-08,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,1,15990000,0.1,14391000.0,12178912.0,Shopee,Chuyển khoản
+DH00306,2025-04-22,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,790000,0.08,726800.0,659485.0,Cửa hàng,Thẻ
+DH00307,2025-01-09,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,2,15990000,0,31980000,23121882.0,Lazada,Ví điện tử
+DH00308,2025-01-09,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,3,790000,0,2370000,1752053.0,Website,COD
+DH00309,2025-05-04,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,890000,0.03,1726600.0,1367251.0,Cửa hàng,Chuyển khoản
+DH00310,2025-07-11,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,2,1190000,0.1,2142000.0,1810357.0,Website,Chuyển khoản
+DH00311,2025-02-17,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0.05,1130500.0,868820.0,Website,COD
+DH00312,2025-02-12,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,2,990000,0.03,1920600.0,1627271.0,Website,Chuyển khoản
+DH00313,2025-04-28,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,890000,0,1780000,1577701.0,Lazada,Chuyển khoản
+DH00314,2025-04-02,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,4,3490000,0.08,12843200.0,10413525.0,Cửa hàng,Chuyển khoản
+DH00315,2025-06-03,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,520000,0.05,494000.0,437770.0,Lazada,Thẻ
+DH00316,2025-03-13,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,2,13990000,0.03,27140600.0,20416037.0,Cửa hàng,COD
+DH00317,2025-02-08,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,3,3490000,0.08,9632400.0,8286027.0,Lazada,Chuyển khoản
+DH00318,2025-11-21,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,2,3290000,0.03,6382600.0,5392618.0,Cửa hàng,Thẻ
+DH00319,2025-04-06,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,1,1790000,0.08,1646800.0,1383971.0,Shopee,Chuyển khoản
+DH00320,2025-02-12,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,1,3290000,0.1,2961000.0,2460163.0,Cửa hàng,Ví điện tử
+DH00321,2025-07-04,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,1,13990000,0.03,13570300.0,11192734.0,Lazada,Chuyển khoản
+DH00322,2025-03-09,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,1,13990000,0.08,12870800.0,11469746.0,Cửa hàng,Chuyển khoản
+DH00323,2025-01-14,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,2,13990000,0.08,25741600.0,23157588.0,Lazada,Thẻ
+DH00324,2025-01-07,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,1,3290000,0,3290000,2798053.0,Shopee,COD
+DH00325,2025-12-17,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,1,1190000,0.03,1154300.0,914293.0,Shopee,Chuyển khoản
+DH00326,2025-03-27,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,1,1190000,0.05,1130500.0,1024447.0,Lazada,Ví điện tử
+DH00327,2025-05-07,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,2,990000,0.05,1881000.0,1463725.0,Lazada,Chuyển khoản
+DH00328,2025-07-22,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,1,3490000,0.03,3385300.0,2789348.0,Cửa hàng,COD
+DH00329,2025-06-03,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,4,3490000,0,13960000,11254856.0,Shopee,Thẻ
+DH00330,2025-06-13,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,4,3290000,0,13160000,10247159.0,Lazada,Thẻ
+DH00331,2025-07-06,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH010,Phan Mỹ Linh,Huế,1,13990000,0.08,12870800.0,10525893.0,Website,Thẻ
+DH00332,2025-12-29,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,3,890000,0.1,2403000.0,1955638.0,Cửa hàng,Thẻ
+DH00333,2025-03-13,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2792363.0,Cửa hàng,Chuyển khoản
+DH00334,2025-08-18,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,2,1790000,0.08,3293600.0,2904061.0,Cửa hàng,Chuyển khoản
+DH00335,2025-07-04,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,790000,0,1580000,1168705.0,Shopee,Ví điện tử
+DH00336,2025-03-27,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1790000,0.1,3222000.0,3014163.0,Cửa hàng,Ví điện tử
+DH00337,2025-08-09,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,1,13990000,0,13990000,11358785.0,Shopee,Thẻ
+DH00338,2025-07-11,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,3,1190000,0.08,3284400.0,3014075.0,Shopee,Ví điện tử
+DH00339,2025-01-13,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0,990000,733484.0,Shopee,Ví điện tử
+DH00340,2025-06-09,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,3,3490000,0.08,9632400.0,8448522.0,Cửa hàng,Chuyển khoản
+DH00341,2025-08-13,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0,990000,857175.0,Website,Chuyển khoản
+DH00342,2025-06-25,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,4,13990000,0.1,50364000.0,42748086.0,Shopee,COD
+DH00343,2025-06-19,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,4,790000,0,3160000,2728963.0,Shopee,COD
+DH00344,2025-11-24,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0.08,1094800.0,1045959.0,Cửa hàng,Thẻ
+DH00345,2025-07-19,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,1,15990000,0.1,14391000.0,13840486.0,Website,Chuyển khoản
+DH00346,2025-10-02,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,520000,0.05,494000.0,385066.0,Cửa hàng,Ví điện tử
+DH00347,2025-11-02,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,1,1190000,0,1190000,931325.0,Cửa hàng,COD
+DH00348,2025-12-11,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,2,3290000,0.1,5922000.0,4896248.0,Website,COD
+DH00349,2025-06-06,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,1,13990000,0,13990000,11359159.0,Cửa hàng,COD
+DH00350,2025-10-22,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0.1,1071000.0,971907.0,Shopee,COD
+DH00351,2025-09-08,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,1,3290000,0.05,3125500.0,2735615.0,Lazada,Chuyển khoản
+DH00352,2025-09-06,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,3,520000,0.08,1435200.0,1265127.0,Cửa hàng,Thẻ
+DH00353,2025-12-17,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,2,990000,0.05,1881000.0,1599773.0,Website,Chuyển khoản
+DH00354,2025-04-23,SP005,Màn hình LG 24MP400,Màn hình,LG,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3290000,0.08,3026800.0,2539751.0,Cửa hàng,Thẻ
+DH00355,2025-10-09,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,2,790000,0.03,1532600.0,1358042.0,Lazada,Chuyển khoản
+DH00356,2025-08-14,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,5,790000,0,3950000,3367288.0,Shopee,Ví điện tử
+DH00357,2025-01-17,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH005,Võ Thành Đạt,Cần Thơ,1,990000,0,990000,791042.0,Website,COD
+DH00358,2025-04-18,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,3,1790000,0.08,4940400.0,4478036.0,Shopee,COD
+DH00359,2025-04-16,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,2,890000,0.08,1637600.0,1371660.0,Shopee,Ví điện tử
+DH00360,2025-12-27,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,2,3290000,0.08,6053600.0,5904812.0,Website,COD
+DH00361,2025-07-30,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,3,15990000,0,47970000,40594937.0,Shopee,COD
+DH00362,2025-03-16,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,3,3490000,0.1,9423000.0,8278484.0,Shopee,Ví điện tử
+DH00363,2025-11-18,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,2,1190000,0.1,2142000.0,2054006.0,Website,Thẻ
+DH00364,2025-09-21,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,2,3290000,0.05,6251000.0,5125241.0,Website,Chuyển khoản
+DH00365,2025-08-23,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,3,3490000,0.05,9946500.0,7948922.0,Cửa hàng,COD
+DH00366,2025-09-11,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,3,3290000,0.03,9573900.0,8078752.0,Shopee,Thẻ
+DH00367,2025-06-25,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,1,15990000,0.05,15190500.0,11559661.0,Shopee,Thẻ
+DH00368,2025-08-22,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,1,15990000,0.1,14391000.0,14130256.0,Lazada,COD
+DH00369,2025-05-21,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,1,13990000,0.03,13570300.0,11746166.0,Shopee,Chuyển khoản
+DH00370,2025-07-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2785530.0,Website,COD
+DH00371,2025-09-02,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,2,13990000,0.08,25741600.0,23570265.0,Website,Chuyển khoản
+DH00372,2025-12-23,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,5,3490000,0.05,16577500.0,14743951.0,Cửa hàng,Chuyển khoản
+DH00373,2025-04-28,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,2,1190000,0,2380000,1757812.0,Lazada,Ví điện tử
+DH00374,2025-03-12,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,2,1190000,0.1,2142000.0,1774798.0,Website,COD
+DH00375,2025-08-14,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,2,3490000,0,6980000,6181355.0,Cửa hàng,COD
+DH00376,2025-02-14,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,3,13990000,0.08,38612400.0,35733327.0,Lazada,Thẻ
+DH00377,2025-06-11,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,520000,0,520000,397628.0,Lazada,Chuyển khoản
+DH00378,2025-12-04,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,2,3290000,0.08,6053600.0,4961033.0,Cửa hàng,Ví điện tử
+DH00379,2025-11-27,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,2,15990000,0,31980000,24413363.0,Website,Chuyển khoản
+DH00380,2025-07-04,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0.08,3210800.0,2777186.0,Shopee,Thẻ
+DH00381,2025-02-07,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH010,Phan Mỹ Linh,Huế,1,15990000,0.03,15510300.0,12133751.0,Website,Thẻ
+DH00382,2025-09-17,SP005,Màn hình LG 24MP400,Màn hình,LG,KH009,Hoàng Gia Huy,Đà Nẵng,3,3290000,0.05,9376500.0,8353237.0,Website,COD
+DH00383,2025-05-23,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,1,13990000,0,13990000,12526316.0,Shopee,Ví điện tử
+DH00384,2025-07-20,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,1,1790000,0.05,1700500.0,1523993.0,Shopee,Chuyển khoản
+DH00385,2025-05-06,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,1,13990000,0.08,12870800.0,11605962.0,Lazada,COD
+DH00386,2025-03-03,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH003,Lê Hoàng Nam,TP.HCM,2,15990000,0,31980000,25883151.0,Lazada,Ví điện tử
+DH00387,2025-03-27,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,2,3490000,0.03,6770600.0,5946461.0,Website,Chuyển khoản
+DH00388,2025-06-21,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,2,1190000,0.03,2308600.0,2018759.0,Website,Thẻ
+DH00389,2025-08-22,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,790000,0.08,726800.0,592531.0,Shopee,Ví điện tử
+DH00390,2025-02-22,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,1,1790000,0.08,1646800.0,1289628.0,Website,COD
+DH00391,2025-01-24,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0,990000,744691.0,Website,Thẻ
+DH00392,2025-04-25,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3490000,0.1,3141000.0,2713783.0,Website,Ví điện tử
+DH00393,2025-03-03,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,790000,0.08,726800.0,708357.0,Cửa hàng,Chuyển khoản
+DH00394,2025-08-27,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,1,3290000,0.08,3026800.0,2639285.0,Lazada,COD
+DH00395,2025-05-30,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,2,1790000,0,3580000,2876554.0,Cửa hàng,COD
+DH00396,2025-10-07,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,890000,0.05,845500.0,644630.0,Lazada,Chuyển khoản
+DH00397,2025-06-21,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,3,15990000,0.1,43173000.0,37193631.0,Shopee,COD
+DH00398,2025-08-03,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,5,990000,0,4950000,4198082.0,Website,Chuyển khoản
+DH00399,2025-04-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,790000,0.03,1532600.0,1267985.0,Website,Chuyển khoản
+DH00400,2025-09-16,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,520000,0.08,478400.0,380230.0,Shopee,COD
+DH00401,2025-05-30,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,4,3290000,0.05,12502000.0,11135079.0,Lazada,Ví điện tử
+DH00402,2025-08-20,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2449405.0,Website,COD
+DH00403,2025-02-24,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,520000,0.05,988000.0,771402.0,Lazada,COD
+DH00404,2025-08-20,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,1,3290000,0,3290000,2422347.0,Lazada,Chuyển khoản
+DH00405,2025-04-21,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0,3490000,3121149.0,Cửa hàng,Chuyển khoản
+DH00406,2025-12-13,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,3,3290000,0,9870000,7161620.0,Cửa hàng,Thẻ
+DH00407,2025-10-12,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,790000,0,790000,683114.0,Shopee,Chuyển khoản
+DH00408,2025-01-07,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,1,15990000,0.05,15190500.0,12584180.0,Website,Ví điện tử
+DH00409,2025-02-08,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,1,15990000,0.1,14391000.0,12789084.0,Shopee,Chuyển khoản
+DH00410,2025-06-19,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,4,13990000,0,55960000,41983322.0,Cửa hàng,Thẻ
+DH00411,2025-09-12,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,2,15990000,0,31980000,25063039.0,Shopee,Ví điện tử
+DH00412,2025-05-24,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,1,990000,0.08,910800.0,822745.0,Lazada,Thẻ
+DH00413,2025-07-30,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,790000,0.03,766300.0,623265.0,Cửa hàng,COD
+DH00414,2025-11-26,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,2,790000,0.08,1453600.0,1363654.0,Cửa hàng,Ví điện tử
+DH00415,2025-09-03,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,790000,0.08,726800.0,640240.0,Cửa hàng,Ví điện tử
+DH00416,2025-04-03,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,2,15990000,0,31980000,28181980.0,Lazada,Chuyển khoản
+DH00417,2025-08-30,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,3,790000,0,2370000,2121900.0,Website,COD
+DH00418,2025-12-03,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,890000,0.1,1602000.0,1299513.0,Shopee,Thẻ
+DH00419,2025-07-01,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,520000,0.03,504400.0,449861.0,Lazada,Chuyển khoản
+DH00420,2025-12-27,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,2,3490000,0.08,6421600.0,6217130.0,Cửa hàng,Ví điện tử
+DH00421,2025-03-31,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,1,990000,0,990000,820016.0,Website,Thẻ
+DH00422,2025-01-01,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,1,3490000,0,3490000,2726865.0,Shopee,Ví điện tử
+DH00423,2025-01-31,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH003,Lê Hoàng Nam,TP.HCM,2,15990000,0,31980000,27483163.0,Lazada,Chuyển khoản
+DH00424,2025-07-11,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,1,1190000,0.03,1154300.0,925902.0,Shopee,Thẻ
+DH00425,2025-11-24,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0.08,910800.0,836392.0,Lazada,COD
+DH00426,2025-12-07,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,1,1790000,0.1,1611000.0,1510634.0,Shopee,COD
+DH00427,2025-01-01,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,3,1790000,0.08,4940400.0,3897701.0,Lazada,COD
+DH00428,2025-11-24,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,4,1790000,0,7160000,5582010.0,Website,COD
+DH00429,2025-06-27,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,2,3490000,0,6980000,6057936.0,Lazada,Thẻ
+DH00430,2025-01-06,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2576355.0,Website,Chuyển khoản
+DH00431,2025-01-25,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,2,1190000,0,2380000,2092542.0,Cửa hàng,Thẻ
+DH00432,2025-06-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,790000,0.05,750500.0,680957.0,Shopee,COD
+DH00433,2025-08-20,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,1,13990000,0.03,13570300.0,10730372.0,Website,Chuyển khoản
+DH00434,2025-06-25,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,520000,0,520000,425604.0,Website,Ví điện tử
+DH00435,2025-11-01,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,2,1790000,0.05,3401000.0,3184910.0,Shopee,Thẻ
+DH00436,2025-03-22,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,1,15990000,0,15990000,12690789.0,Lazada,Ví điện tử
+DH00437,2025-06-02,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,890000,0.08,818800.0,728856.0,Cửa hàng,COD
+DH00438,2025-01-28,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0.03,3385300.0,3030372.0,Cửa hàng,COD
+DH00439,2025-02-19,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,1,15990000,0.03,15510300.0,14324967.0,Cửa hàng,Chuyển khoản
+DH00440,2025-06-07,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,2,1190000,0.1,2142000.0,1827128.0,Cửa hàng,COD
+DH00441,2025-07-09,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,1,1190000,0,1190000,913198.0,Cửa hàng,Ví điện tử
+DH00442,2025-04-26,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,1,3290000,0.1,2961000.0,2764075.0,Website,Ví điện tử
+DH00443,2025-10-05,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,1,1190000,0,1190000,1036899.0,Cửa hàng,Thẻ
+DH00444,2025-10-21,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,890000,0.05,845500.0,785425.0,Website,COD
+DH00445,2025-03-03,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,4,990000,0,3960000,3544159.0,Shopee,COD
+DH00446,2025-01-22,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,5,1190000,0.05,5652500.0,4500256.0,Shopee,Ví điện tử
+DH00447,2025-06-13,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,1,13990000,0.05,13290500.0,11462983.0,Lazada,Thẻ
+DH00448,2025-01-07,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,2,1790000,0.05,3401000.0,2650107.0,Shopee,COD
+DH00449,2025-10-18,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,3,1790000,0,5370000,4760436.0,Website,Ví điện tử
+DH00450,2025-10-02,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,1,3490000,0.1,3141000.0,2817844.0,Cửa hàng,Chuyển khoản
+DH00451,2025-03-30,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,1,3290000,0.08,3026800.0,2771977.0,Cửa hàng,Chuyển khoản
+DH00452,2025-07-22,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3490000,0.05,3315500.0,3091269.0,Lazada,Chuyển khoản
+DH00453,2025-06-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,1,3290000,0.05,3125500.0,2877047.0,Website,COD
+DH00454,2025-03-10,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,3,3290000,0.03,9573900.0,7585052.0,Cửa hàng,Chuyển khoản
+DH00455,2025-04-07,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,4,990000,0.05,3762000.0,3379345.0,Lazada,Chuyển khoản
+DH00456,2025-09-21,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,520000,0.08,478400.0,412157.0,Website,COD
+DH00457,2025-04-09,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,890000,0.05,845500.0,648900.0,Lazada,COD
+DH00458,2025-05-21,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,2,3490000,0.1,6282000.0,6185350.0,Website,COD
+DH00459,2025-07-10,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,1,990000,0.05,940500.0,817382.0,Lazada,Ví điện tử
+DH00460,2025-03-25,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0.05,3125500.0,2398203.0,Shopee,COD
+DH00461,2025-11-28,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,890000,0.05,845500.0,723028.0,Website,Thẻ
+DH00462,2025-03-09,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,3,520000,0,1560000,1194071.0,Lazada,Ví điện tử
+DH00463,2025-08-05,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,2,1190000,0,2380000,1913533.0,Cửa hàng,Chuyển khoản
+DH00464,2025-01-04,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,2,790000,0.08,1453600.0,1310814.0,Lazada,Chuyển khoản
+DH00465,2025-09-04,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,5,13990000,0.1,62955000.0,54457801.0,Lazada,Ví điện tử
+DH00466,2025-12-02,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2901595.0,Cửa hàng,Ví điện tử
+DH00467,2025-12-15,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,2,520000,0.03,1008800.0,797365.0,Cửa hàng,Thẻ
+DH00468,2025-07-18,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH010,Phan Mỹ Linh,Huế,2,15990000,0.08,29421600.0,27722907.0,Lazada,COD
+DH00469,2025-12-18,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,4,790000,0.1,2844000.0,2479113.0,Lazada,COD
+DH00470,2025-12-03,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,790000,0.05,750500.0,586994.0,Lazada,COD
+DH00471,2025-12-15,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,1,3490000,0,3490000,2980313.0,Lazada,Thẻ
+DH00472,2025-06-19,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,2,3490000,0.05,6631000.0,6095065.0,Cửa hàng,Chuyển khoản
+DH00473,2025-11-21,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,4,1790000,0,7160000,5763797.0,Shopee,Chuyển khoản
+DH00474,2025-12-15,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH009,Hoàng Gia Huy,Đà Nẵng,1,1190000,0,1190000,1043336.0,Shopee,COD
+DH00475,2025-04-13,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,5,3490000,0.05,16577500.0,13013867.0,Shopee,Chuyển khoản
+DH00476,2025-09-07,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0,3490000,2515761.0,Lazada,COD
+DH00477,2025-03-28,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,2,1790000,0,3580000,2660989.0,Cửa hàng,Thẻ
+DH00478,2025-07-26,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,1,1190000,0,1190000,971136.0,Lazada,Chuyển khoản
+DH00479,2025-06-14,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,1,790000,0,790000,657915.0,Shopee,COD
+DH00480,2025-12-22,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0.05,3315500.0,2828996.0,Lazada,COD
+DH00481,2025-02-03,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,4,15990000,0.05,60762000.0,54430583.0,Lazada,Thẻ
+DH00482,2025-12-18,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,5,520000,0.05,2470000.0,2040129.0,Shopee,COD
+DH00483,2025-07-26,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,1,15990000,0,15990000,12120648.0,Website,COD
+DH00484,2025-03-05,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0.1,3141000.0,2673487.0,Website,Chuyển khoản
+DH00485,2025-12-05,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,1,13990000,0,13990000,11122324.0,Cửa hàng,Chuyển khoản
+DH00486,2025-10-08,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,2,3290000,0,6580000,5560985.0,Website,Ví điện tử
+DH00487,2025-08-04,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,1,13990000,0.08,12870800.0,11837369.0,Cửa hàng,Chuyển khoản
+DH00488,2025-09-19,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,1,1790000,0,1790000,1449172.0,Shopee,Ví điện tử
+DH00489,2025-09-25,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,2,890000,0.03,1726600.0,1332984.0,Cửa hàng,COD
+DH00490,2025-12-19,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0,990000,832485.0,Website,Thẻ
+DH00491,2025-03-18,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,1,13990000,0.1,12591000.0,10327870.0,Lazada,COD
+DH00492,2025-08-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,2,3290000,0,6580000,5700729.0,Website,Ví điện tử
+DH00493,2025-07-04,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,2,3490000,0,6980000,6095105.0,Website,Chuyển khoản
+DH00494,2025-03-12,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,520000,0.05,494000.0,463796.0,Lazada,Chuyển khoản
+DH00495,2025-07-10,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0.05,3315500.0,3117323.0,Lazada,Thẻ
+DH00496,2025-12-20,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,2,990000,0,1980000,1465893.0,Website,COD
+DH00497,2025-02-23,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,2,1190000,0.08,2189600.0,2004224.0,Shopee,Thẻ
+DH00498,2025-07-03,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,3,1790000,0.1,4833000.0,4807332.0,Shopee,Thẻ
+DH00499,2025-09-07,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,1,13990000,0,13990000,10731594.0,Lazada,Chuyển khoản
+DH00500,2025-12-27,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,790000,0,1580000,1415713.0,Lazada,Chuyển khoản
+DH00501,2025-08-10,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,890000,0.1,801000.0,743553.0,Shopee,Chuyển khoản
+DH00502,2025-01-06,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,3,520000,0.05,1482000.0,1367332.0,Website,Thẻ
+DH00503,2025-06-14,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,5,890000,0,4450000,3610050.0,Cửa hàng,Thẻ
+DH00504,2025-05-01,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,1,13990000,0.08,12870800.0,11201202.0,Cửa hàng,Thẻ
+DH00505,2025-06-11,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,2,13990000,0,27980000,20662553.0,Cửa hàng,Chuyển khoản
+DH00506,2025-10-13,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,3,790000,0.08,2180400.0,2117289.0,Lazada,COD
+DH00507,2025-12-02,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0,990000,858316.0,Cửa hàng,Ví điện tử
+DH00508,2025-10-14,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,2,1790000,0.1,3222000.0,2811707.0,Cửa hàng,Chuyển khoản
+DH00509,2025-02-19,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,890000,0.1,801000.0,795302.0,Lazada,Ví điện tử
+DH00510,2025-12-26,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,3,13990000,0.05,39871500.0,31279437.0,Cửa hàng,Chuyển khoản
+DH00511,2025-05-11,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,1,1790000,0.05,1700500.0,1358263.0,Shopee,Ví điện tử
+DH00512,2025-02-25,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,4,1190000,0.1,4284000.0,3931693.0,Cửa hàng,Thẻ
+DH00513,2025-12-04,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,1,1790000,0.05,1700500.0,1290198.0,Website,Thẻ
+DH00514,2025-10-27,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,3,990000,0,2970000,2508246.0,Shopee,COD
+DH00515,2025-02-23,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,2,1190000,0.03,2308600.0,1929561.0,Cửa hàng,Thẻ
+DH00516,2025-11-08,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,890000,0.03,863300.0,796273.0,Cửa hàng,COD
+DH00517,2025-03-12,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,2,1190000,0.1,2142000.0,1933067.0,Lazada,COD
+DH00518,2025-04-13,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,890000,0.1,1602000.0,1392232.0,Shopee,COD
+DH00519,2025-09-15,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,2,790000,0.03,1532600.0,1297512.0,Cửa hàng,Ví điện tử
+DH00520,2025-08-05,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,1,15990000,0.05,15190500.0,11931079.0,Website,COD
+DH00521,2025-05-17,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,520000,0,1040000,905932.0,Lazada,COD
+DH00522,2025-10-05,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,3,15990000,0,47970000,39858253.0,Shopee,Thẻ
+DH00523,2025-05-02,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,790000,0,1580000,1401092.0,Cửa hàng,Thẻ
+DH00524,2025-12-17,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,1,3490000,0.1,3141000.0,2670692.0,Cửa hàng,COD
+DH00525,2025-11-21,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,2,3490000,0.08,6421600.0,5272444.0,Shopee,Ví điện tử
+DH00526,2025-08-18,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,520000,0,520000,443203.0,Website,Thẻ
+DH00527,2025-01-21,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,2,1190000,0,2380000,1782542.0,Lazada,Chuyển khoản
+DH00528,2025-06-19,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,1,990000,0.03,960300.0,819164.0,Lazada,Thẻ
+DH00529,2025-10-21,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,790000,0.1,711000.0,614000.0,Shopee,COD
+DH00530,2025-09-24,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,1,13990000,0.08,12870800.0,11425164.0,Website,Ví điện tử
+DH00531,2025-04-24,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,890000,0.03,863300.0,675795.0,Cửa hàng,Chuyển khoản
+DH00532,2025-02-28,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,1,3490000,0.1,3141000.0,2898327.0,Shopee,Chuyển khoản
+DH00533,2025-12-16,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,4,3490000,0,13960000,11020829.0,Lazada,Chuyển khoản
+DH00534,2025-09-22,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,3,3490000,0.05,9946500.0,8455832.0,Lazada,COD
+DH00535,2025-06-14,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,4,790000,0,3160000,2827862.0,Website,Chuyển khoản
+DH00536,2025-04-18,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,3,890000,0,2670000,2180845.0,Cửa hàng,Chuyển khoản
+DH00537,2025-12-18,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,2,520000,0.03,1008800.0,755892.0,Website,Chuyển khoản
+DH00538,2025-04-02,SP005,Màn hình LG 24MP400,Màn hình,LG,KH009,Hoàng Gia Huy,Đà Nẵng,1,3290000,0,3290000,2908286.0,Cửa hàng,Thẻ
+DH00539,2025-08-19,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0.05,1130500.0,1001021.0,Website,Chuyển khoản
+DH00540,2025-10-27,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,1,15990000,0.08,14710800.0,11818279.0,Lazada,Chuyển khoản
+DH00541,2025-05-25,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,1,990000,0.1,891000.0,718292.0,Shopee,COD
+DH00542,2025-03-11,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH009,Hoàng Gia Huy,Đà Nẵng,1,1190000,0.1,1071000.0,887661.0,Lazada,Chuyển khoản
+DH00543,2025-10-11,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,790000,0,790000,650241.0,Cửa hàng,Chuyển khoản
+DH00544,2025-06-06,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,890000,0.1,801000.0,777204.0,Shopee,COD
+DH00545,2025-04-05,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,3,890000,0,2670000,1977488.0,Website,Thẻ
+DH00546,2025-11-27,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,790000,0,790000,604448.0,Shopee,Thẻ
+DH00547,2025-06-19,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,2,3490000,0,6980000,5151297.0,Website,COD
+DH00548,2025-06-12,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,1,990000,0.1,891000.0,767271.0,Shopee,Ví điện tử
+DH00549,2025-06-11,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,1,1190000,0,1190000,1025088.0,Cửa hàng,Ví điện tử
+DH00550,2025-07-04,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,3,520000,0.05,1482000.0,1248257.0,Lazada,Thẻ
+DH00551,2025-10-10,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,2,13990000,0,27980000,24385206.0,Shopee,COD
+DH00552,2025-05-15,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,3,13990000,0.08,38612400.0,34990086.0,Cửa hàng,COD
+DH00553,2025-01-19,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,790000,0.08,1453600.0,1271866.0,Shopee,Ví điện tử
+DH00554,2025-07-20,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,890000,0.03,1726600.0,1324496.0,Website,Thẻ
+DH00555,2025-07-06,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,2,790000,0.08,1453600.0,1332176.0,Shopee,Thẻ
+DH00556,2025-03-23,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,4,520000,0.1,1872000.0,1824150.0,Shopee,Thẻ
+DH00557,2025-07-03,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,3,15990000,0,47970000,35081181.0,Lazada,COD
+DH00558,2025-01-22,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,4,890000,0.03,3453200.0,2811890.0,Cửa hàng,Chuyển khoản
+DH00559,2025-01-21,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,2,3490000,0.08,6421600.0,5821614.0,Lazada,Ví điện tử
+DH00560,2025-10-24,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,790000,0.1,711000.0,622625.0,Website,Ví điện tử
+DH00561,2025-07-12,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0.03,863300.0,718795.0,Cửa hàng,Chuyển khoản
+DH00562,2025-09-14,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,520000,0,520000,422561.0,Lazada,COD
+DH00563,2025-03-18,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,520000,0.1,468000.0,450867.0,Shopee,Thẻ
+DH00564,2025-06-19,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,2,13990000,0.05,26581000.0,21206789.0,Shopee,Thẻ
+DH00565,2025-01-12,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,890000,0.08,818800.0,666613.0,Website,COD
+DH00566,2025-01-29,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,4,520000,0.08,1913600.0,1856364.0,Website,Ví điện tử
+DH00567,2025-02-13,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,890000,0.05,1691000.0,1559484.0,Shopee,COD
+DH00568,2025-07-30,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,3,1790000,0,5370000,4468796.0,Lazada,COD
+DH00569,2025-12-18,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,2,3490000,0,6980000,5314338.0,Cửa hàng,COD
+DH00570,2025-02-25,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,2,15990000,0.08,29421600.0,26965095.0,Shopee,Chuyển khoản
+DH00571,2025-04-01,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,2,990000,0.08,1821600.0,1604987.0,Website,Chuyển khoản
+DH00572,2025-09-04,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,520000,0,1040000,916713.0,Cửa hàng,Thẻ
+DH00573,2025-07-09,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,1,15990000,0.05,15190500.0,13785299.0,Cửa hàng,Ví điện tử
+DH00574,2025-10-29,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,1,1790000,0.03,1736300.0,1442535.0,Shopee,Chuyển khoản
+DH00575,2025-05-26,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,1,1790000,0,1790000,1290562.0,Website,Chuyển khoản
+DH00576,2025-09-24,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,2,15990000,0.1,28782000.0,27655399.0,Cửa hàng,Ví điện tử
+DH00577,2025-02-24,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,520000,0.03,1008800.0,797716.0,Cửa hàng,Ví điện tử
+DH00578,2025-11-10,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,3,3290000,0.05,9376500.0,8087270.0,Cửa hàng,COD
+DH00579,2025-07-09,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,2,790000,0.03,1532600.0,1301884.0,Cửa hàng,COD
+DH00580,2025-12-04,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH004,Phạm Ngọc Lan,Đà Nẵng,1,13990000,0.1,12591000.0,12463189.0,Website,COD
+DH00581,2025-09-18,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,3,1190000,0.08,3284400.0,3018329.0,Website,COD
+DH00582,2025-07-19,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,3,15990000,0.05,45571500.0,42532846.0,Cửa hàng,Chuyển khoản
+DH00583,2025-02-02,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0.08,3026800.0,2391159.0,Cửa hàng,Thẻ
+DH00584,2025-11-11,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,790000,0.08,1453600.0,1153942.0,Shopee,Thẻ
+DH00585,2025-08-13,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,3,15990000,0.08,44132400.0,37007952.0,Website,COD
+DH00586,2025-11-11,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0.1,468000.0,374427.0,Shopee,Chuyển khoản
+DH00587,2025-05-22,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,2,1190000,0.05,2261000.0,1964677.0,Website,Chuyển khoản
+DH00588,2025-02-16,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,790000,0.08,1453600.0,1397829.0,Lazada,Ví điện tử
+DH00589,2025-05-22,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,4,890000,0.05,3382000.0,3158961.0,Website,Ví điện tử
+DH00590,2025-03-31,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH009,Hoàng Gia Huy,Đà Nẵng,1,1190000,0,1190000,964579.0,Lazada,Chuyển khoản
+DH00591,2025-09-20,SP005,Màn hình LG 24MP400,Màn hình,LG,KH009,Hoàng Gia Huy,Đà Nẵng,3,3290000,0.08,9080400.0,7550801.0,Cửa hàng,Thẻ
+DH00592,2025-10-16,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,3,990000,0.05,2821500.0,2502781.0,Website,Thẻ
+DH00593,2025-03-01,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0,3290000,2769668.0,Shopee,Ví điện tử
+DH00594,2025-07-31,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0.1,6282000.0,6071147.0,Shopee,Ví điện tử
+DH00595,2025-02-17,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,1,1190000,0,1190000,958878.0,Lazada,COD
+DH00596,2025-10-21,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,4,3290000,0.1,11844000.0,11678789.0,Shopee,Thẻ
+DH00597,2025-04-13,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,3,890000,0,2670000,2032557.0,Shopee,Ví điện tử
+DH00598,2025-03-21,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,4,13990000,0.1,50364000.0,49918578.0,Cửa hàng,Chuyển khoản
+DH00599,2025-10-05,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH008,Nguyễn Khánh Vy,TP.HCM,1,15990000,0.03,15510300.0,12929854.0,Lazada,Thẻ
+DH00600,2025-04-04,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,790000,0.08,726800.0,587037.0,Cửa hàng,Thẻ
+DH00601,2025-10-04,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,1,15990000,0.1,14391000.0,13746007.0,Cửa hàng,Chuyển khoản
+DH00602,2025-12-24,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,790000,0,790000,570481.0,Shopee,Thẻ
+DH00603,2025-10-25,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,1,13990000,0.03,13570300.0,10544087.0,Lazada,COD
+DH00604,2025-05-18,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,1,990000,0,990000,801681.0,Shopee,Thẻ
+DH00605,2025-12-25,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH006,Đặng Thu Hà,Hải Phòng,3,3490000,0.03,10155900.0,8387844.0,Shopee,COD
+DH00606,2025-02-21,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,2,3290000,0.05,6251000.0,4969817.0,Shopee,Thẻ
+DH00607,2025-01-05,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,520000,0.1,936000.0,845584.0,Lazada,Thẻ
+DH00608,2025-06-03,SP005,Màn hình LG 24MP400,Màn hình,LG,KH009,Hoàng Gia Huy,Đà Nẵng,3,3290000,0,9870000,7814201.0,Shopee,Chuyển khoản
+DH00609,2025-04-21,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,3,3290000,0,9870000,7905612.0,Lazada,Ví điện tử
+DH00610,2025-07-04,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0.03,6770600.0,5457978.0,Cửa hàng,Chuyển khoản
+DH00611,2025-06-29,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,2,1790000,0.1,3222000.0,2995900.0,Shopee,Ví điện tử
+DH00612,2025-07-01,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0.1,6282000.0,5587123.0,Website,Thẻ
+DH00613,2025-11-11,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,2,3290000,0,6580000,5765964.0,Lazada,Thẻ
+DH00614,2025-11-20,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,1,1790000,0,1790000,1314290.0,Lazada,COD
+DH00615,2025-06-10,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,2,3490000,0.08,6421600.0,5835531.0,Lazada,Thẻ
+DH00616,2025-07-05,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,4,1790000,0.05,6802000.0,5370840.0,Website,COD
+DH00617,2025-05-01,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0.05,3125500.0,2429802.0,Website,Thẻ
+DH00618,2025-10-08,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,3,15990000,0.08,44132400.0,41143838.0,Website,Chuyển khoản
+DH00619,2025-05-15,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,1,1790000,0.05,1700500.0,1388479.0,Shopee,Ví điện tử
+DH00620,2025-08-15,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,2,520000,0,1040000,754149.0,Lazada,Ví điện tử
+DH00621,2025-09-01,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,4,990000,0.08,3643200.0,3168285.0,Shopee,Thẻ
+DH00622,2025-11-20,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,2,1790000,0.1,3222000.0,2921570.0,Lazada,Thẻ
+DH00623,2025-10-04,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,890000,0.03,863300.0,706835.0,Shopee,Ví điện tử
+DH00624,2025-01-06,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,3,15990000,0,47970000,37507709.0,Cửa hàng,Chuyển khoản
+DH00625,2025-12-19,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,1,990000,0.05,940500.0,854997.0,Shopee,Chuyển khoản
+DH00626,2025-10-08,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3490000,0.08,3210800.0,2787390.0,Shopee,COD
+DH00627,2025-11-27,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0,1190000,947244.0,Shopee,Ví điện tử
+DH00628,2025-05-26,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,790000,0,790000,594738.0,Lazada,Chuyển khoản
+DH00629,2025-11-23,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,2,990000,0.1,1782000.0,1647549.0,Shopee,Ví điện tử
+DH00630,2025-01-10,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,4,520000,0,2080000,1567215.0,Website,Ví điện tử
+DH00631,2025-05-18,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,520000,0,1040000,765685.0,Website,Thẻ
+DH00632,2025-04-22,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,1,3490000,0.05,3315500.0,3139721.0,Cửa hàng,Chuyển khoản
+DH00633,2025-06-19,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,1,13990000,0.05,13290500.0,10252561.0,Cửa hàng,COD
+DH00634,2025-04-09,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,3,3290000,0,9870000,8837872.0,Shopee,Thẻ
+DH00635,2025-08-15,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,890000,0.1,801000.0,764314.0,Shopee,Thẻ
+DH00636,2025-07-19,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,1,3290000,0.1,2961000.0,2393782.0,Website,Ví điện tử
+DH00637,2025-09-04,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2880258.0,Shopee,Chuyển khoản
+DH00638,2025-05-01,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,1,1190000,0.03,1154300.0,982042.0,Cửa hàng,COD
+DH00639,2025-01-05,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH010,Phan Mỹ Linh,Huế,3,15990000,0.05,45571500.0,40482515.0,Shopee,Ví điện tử
+DH00640,2025-02-15,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,2,890000,0.1,1602000.0,1479814.0,Website,Chuyển khoản
+DH00641,2025-07-02,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,3,520000,0,1560000,1260186.0,Lazada,Ví điện tử
+DH00642,2025-08-13,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,2,890000,0.03,1726600.0,1513697.0,Lazada,Chuyển khoản
+DH00643,2025-09-06,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,1,990000,0.1,891000.0,800134.0,Shopee,Ví điện tử
+DH00644,2025-06-15,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH005,Võ Thành Đạt,Cần Thơ,3,990000,0.08,2732400.0,2627278.0,Shopee,Chuyển khoản
+DH00645,2025-09-29,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,520000,0.03,504400.0,425094.0,Cửa hàng,Chuyển khoản
+DH00646,2025-11-23,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,790000,0,1580000,1313853.0,Lazada,COD
+DH00647,2025-06-14,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,3,13990000,0,41970000,34177537.0,Cửa hàng,COD
+DH00648,2025-11-10,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,1,3290000,0.03,3191300.0,2434217.0,Website,Chuyển khoản
+DH00649,2025-03-08,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0.05,494000.0,392335.0,Website,Thẻ
+DH00650,2025-12-03,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,2,990000,0.08,1821600.0,1516816.0,Lazada,COD
+DH00651,2025-11-07,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,4,13990000,0,55960000,46896432.0,Website,Thẻ
+DH00652,2025-11-24,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,2,15990000,0.05,30381000.0,27757513.0,Website,Ví điện tử
+DH00653,2025-09-28,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,3,15990000,0,47970000,42694673.0,Website,Chuyển khoản
+DH00654,2025-04-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,790000,0.08,726800.0,662208.0,Shopee,Thẻ
+DH00655,2025-02-24,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,2,1790000,0.1,3222000.0,3006282.0,Website,COD
+DH00656,2025-04-03,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,790000,0.1,1422000.0,1182585.0,Cửa hàng,Ví điện tử
+DH00657,2025-06-11,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,3,790000,0.05,2251500.0,2032401.0,Cửa hàng,Ví điện tử
+DH00658,2025-11-08,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,890000,0.05,1691000.0,1526933.0,Lazada,Ví điện tử
+DH00659,2025-08-20,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,1,990000,0,990000,887963.0,Website,COD
+DH00660,2025-06-04,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,5,15990000,0,79950000,69878673.0,Website,Ví điện tử
+DH00661,2025-10-11,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,2,790000,0.08,1453600.0,1181601.0,Website,Thẻ
+DH00662,2025-07-02,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,520000,0.08,478400.0,397787.0,Lazada,Ví điện tử
+DH00663,2025-02-17,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,2,1790000,0,3580000,3050761.0,Lazada,Thẻ
+DH00664,2025-03-30,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,3,990000,0,2970000,2456611.0,Lazada,Chuyển khoản
+DH00665,2025-10-23,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,3,1190000,0.03,3462900.0,2793980.0,Cửa hàng,Thẻ
+DH00666,2025-03-03,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,4,890000,0.1,3204000.0,3061370.0,Cửa hàng,Chuyển khoản
+DH00667,2025-06-06,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,790000,0.08,726800.0,590070.0,Shopee,COD
+DH00668,2025-01-26,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,3,1190000,0.08,3284400.0,2894739.0,Shopee,Thẻ
+DH00669,2025-05-29,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,1,1190000,0,1190000,958728.0,Website,Thẻ
+DH00670,2025-05-15,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,2,13990000,0.1,25182000.0,20802222.0,Shopee,Thẻ
+DH00671,2025-10-14,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,890000,0.08,818800.0,672215.0,Shopee,COD
+DH00672,2025-02-06,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,1,3290000,0.08,3026800.0,2421858.0,Cửa hàng,Thẻ
+DH00673,2025-07-07,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3490000,0.08,3210800.0,2924528.0,Lazada,COD
+DH00674,2025-06-29,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,2,1790000,0.05,3401000.0,2606519.0,Shopee,COD
+DH00675,2025-12-17,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,3,3490000,0,10470000,7750176.0,Website,COD
+DH00676,2025-11-14,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,520000,0.1,468000.0,449681.0,Lazada,Thẻ
+DH00677,2025-08-30,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,1,15990000,0.08,14710800.0,12122620.0,Lazada,Thẻ
+DH00678,2025-11-15,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0.1,468000.0,423708.0,Lazada,COD
+DH00679,2025-01-31,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,3,3290000,0.08,9080400.0,7588359.0,Cửa hàng,Chuyển khoản
+DH00680,2025-02-04,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,2,1190000,0.1,2142000.0,1867918.0,Website,Chuyển khoản
+DH00681,2025-05-30,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH004,Phạm Ngọc Lan,Đà Nẵng,5,1190000,0.08,5474000.0,5329951.0,Website,Ví điện tử
+DH00682,2025-09-06,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,1,1790000,0,1790000,1450110.0,Cửa hàng,Chuyển khoản
+DH00683,2025-01-21,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0.05,845500.0,703823.0,Shopee,Chuyển khoản
+DH00684,2025-06-27,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH006,Đặng Thu Hà,Hải Phòng,2,3490000,0,6980000,6276967.0,Lazada,Chuyển khoản
+DH00685,2025-11-17,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,3,3290000,0,9870000,8783753.0,Lazada,COD
+DH00686,2025-03-19,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,2,3490000,0,6980000,5942633.0,Shopee,Thẻ
+DH00687,2025-05-04,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,1,1790000,0.03,1736300.0,1581917.0,Lazada,Thẻ
+DH00688,2025-10-05,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,2,520000,0.08,956800.0,850141.0,Shopee,COD
+DH00689,2025-06-08,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,790000,0,790000,662116.0,Shopee,Ví điện tử
+DH00690,2025-02-04,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,4,790000,0,3160000,2379936.0,Shopee,Chuyển khoản
+DH00691,2025-06-13,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0.1,1071000.0,1056813.0,Lazada,COD
+DH00692,2025-04-07,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,1,13990000,0.08,12870800.0,11626395.0,Shopee,COD
+DH00693,2025-04-29,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,1,15990000,0.05,15190500.0,11898728.0,Cửa hàng,Ví điện tử
+DH00694,2025-04-05,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,2,1190000,0,2380000,1796393.0,Website,Thẻ
+DH00695,2025-01-08,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,1,3290000,0.1,2961000.0,2954038.0,Shopee,Chuyển khoản
+DH00696,2025-04-01,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,2,990000,0.03,1920600.0,1734519.0,Shopee,Thẻ
+DH00697,2025-07-27,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH010,Phan Mỹ Linh,Huế,2,15990000,0.05,30381000.0,27171365.0,Cửa hàng,Chuyển khoản
+DH00698,2025-09-24,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,2,13990000,0,27980000,24566451.0,Shopee,Thẻ
+DH00699,2025-01-21,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,790000,0.1,1422000.0,1411361.0,Shopee,Ví điện tử
+DH00700,2025-08-14,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,3,1190000,0.03,3462900.0,2866862.0,Cửa hàng,Ví điện tử
+DH00701,2025-11-10,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,4,15990000,0.05,60762000.0,55605598.0,Cửa hàng,Chuyển khoản
+DH00702,2025-09-14,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,3,13990000,0.1,37773000.0,34346287.0,Cửa hàng,Thẻ
+DH00703,2025-06-15,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,1,990000,0.08,910800.0,872577.0,Shopee,Thẻ
+DH00704,2025-02-16,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,2,3290000,0.1,5922000.0,5680958.0,Website,Chuyển khoản
+DH00705,2025-02-28,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH006,Đặng Thu Hà,Hải Phòng,1,990000,0.1,891000.0,781244.0,Shopee,Thẻ
+DH00706,2025-10-09,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,3,1190000,0.03,3462900.0,2933785.0,Shopee,COD
+DH00707,2025-03-16,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0.03,504400.0,442743.0,Cửa hàng,Ví điện tử
+DH00708,2025-11-17,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,3,520000,0,1560000,1124192.0,Lazada,Chuyển khoản
+DH00709,2025-08-23,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,2,990000,0,1980000,1642285.0,Cửa hàng,COD
+DH00710,2025-04-22,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,2,1790000,0.05,3401000.0,2628769.0,Website,COD
+DH00711,2025-10-08,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,2,3290000,0,6580000,4795539.0,Shopee,Chuyển khoản
+DH00712,2025-12-01,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0,3490000,2931807.0,Lazada,Ví điện tử
+DH00713,2025-02-14,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,1,15990000,0,15990000,11977155.0,Lazada,COD
+DH00714,2025-08-22,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,4,1790000,0,7160000,6145658.0,Lazada,Ví điện tử
+DH00715,2025-07-14,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,3,13990000,0,41970000,32430634.0,Shopee,Chuyển khoản
+DH00716,2025-12-22,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,2,3290000,0.08,6053600.0,4986141.0,Shopee,Chuyển khoản
+DH00717,2025-02-25,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,5,1790000,0.05,8502500.0,7610483.0,Lazada,Thẻ
+DH00718,2025-11-08,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,2,3490000,0.08,6421600.0,5470181.0,Shopee,Thẻ
+DH00719,2025-09-24,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,3,990000,0.08,2732400.0,2262813.0,Lazada,COD
+DH00720,2025-01-01,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,2,13990000,0,27980000,23859786.0,Shopee,Thẻ
+DH00721,2025-07-31,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,1,15990000,0.1,14391000.0,12123951.0,Shopee,Ví điện tử
+DH00722,2025-05-11,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,1,13990000,0.08,12870800.0,10888505.0,Website,Chuyển khoản
+DH00723,2025-12-18,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH006,Đặng Thu Hà,Hải Phòng,1,3490000,0.08,3210800.0,2899767.0,Website,COD
+DH00724,2025-04-10,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH006,Đặng Thu Hà,Hải Phòng,4,3490000,0.05,13262000.0,12353335.0,Website,COD
+DH00725,2025-09-04,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,3,520000,0.08,1435200.0,1374777.0,Cửa hàng,Thẻ
+DH00726,2025-01-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,790000,0.1,1422000.0,1227329.0,Website,COD
+DH00727,2025-10-23,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH006,Đặng Thu Hà,Hải Phòng,1,3490000,0,3490000,2688985.0,Website,Ví điện tử
+DH00728,2025-07-12,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,2,790000,0.05,1501000.0,1190891.0,Website,Ví điện tử
+DH00729,2025-12-28,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0,3490000,2825050.0,Shopee,Ví điện tử
+DH00730,2025-08-20,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,2,3290000,0,6580000,4870527.0,Website,COD
+DH00731,2025-02-17,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,1,990000,0.05,940500.0,874063.0,Shopee,COD
+DH00732,2025-06-24,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,1,990000,0.03,960300.0,738335.0,Website,COD
+DH00733,2025-04-16,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH008,Nguyễn Khánh Vy,TP.HCM,1,15990000,0.08,14710800.0,11846199.0,Lazada,Chuyển khoản
+DH00734,2025-12-18,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,1,1790000,0,1790000,1322020.0,Lazada,Chuyển khoản
+DH00735,2025-10-23,SP005,Màn hình LG 24MP400,Màn hình,LG,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3290000,0,3290000,2538505.0,Lazada,Thẻ
+DH00736,2025-12-10,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,1,13990000,0.03,13570300.0,10361034.0,Website,COD
+DH00737,2025-10-05,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,1,3490000,0,3490000,3105367.0,Lazada,COD
+DH00738,2025-03-29,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,2,13990000,0.03,27140600.0,22868163.0,Website,COD
+DH00739,2025-01-15,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,1,990000,0,990000,728147.0,Cửa hàng,COD
+DH00740,2025-12-27,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,2,1790000,0.1,3222000.0,3028271.0,Lazada,Ví điện tử
+DH00741,2025-06-20,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0.05,845500.0,731760.0,Website,Thẻ
+DH00742,2025-02-19,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH005,Võ Thành Đạt,Cần Thơ,2,990000,0.1,1782000.0,1698778.0,Cửa hàng,COD
+DH00743,2025-04-25,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,520000,0.03,504400.0,411098.0,Lazada,Ví điện tử
+DH00744,2025-08-21,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,1,990000,0,990000,775427.0,Cửa hàng,COD
+DH00745,2025-05-25,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH010,Phan Mỹ Linh,Huế,2,3490000,0.08,6421600.0,5154924.0,Website,Ví điện tử
+DH00746,2025-10-12,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,2,13990000,0.05,26581000.0,23119775.0,Shopee,COD
+DH00747,2025-10-08,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,520000,0.03,504400.0,393891.0,Cửa hàng,Thẻ
+DH00748,2025-10-18,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0,6980000,5858106.0,Website,Thẻ
+DH00749,2025-02-28,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,2,1790000,0.08,3293600.0,2640528.0,Cửa hàng,COD
+DH00750,2025-06-07,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,2,1190000,0.1,2142000.0,2062346.0,Cửa hàng,Ví điện tử
+DH00751,2025-09-11,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,1,15990000,0,15990000,14066516.0,Website,COD
+DH00752,2025-12-05,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,520000,0.05,988000.0,864035.0,Cửa hàng,COD
+DH00753,2025-04-16,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,2,3490000,0.1,6282000.0,5408237.0,Cửa hàng,Ví điện tử
+DH00754,2025-02-15,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1790000,0.08,3293600.0,2838065.0,Shopee,Ví điện tử
+DH00755,2025-02-01,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,4,3490000,0,13960000,11818588.0,Lazada,Chuyển khoản
+DH00756,2025-05-25,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,1,15990000,0.08,14710800.0,12647583.0,Lazada,Thẻ
+DH00757,2025-07-27,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,2,1190000,0.1,2142000.0,1787889.0,Shopee,COD
+DH00758,2025-10-12,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,3,1190000,0,3570000,2755771.0,Shopee,COD
+DH00759,2025-01-06,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH001,Nguyễn Minh Anh,Đà Nẵng,1,13990000,0.05,13290500.0,11729591.0,Shopee,Chuyển khoản
+DH00760,2025-03-12,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,3,1190000,0.1,3213000.0,2958806.0,Cửa hàng,COD
+DH00761,2025-08-21,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,790000,0.05,1501000.0,1247013.0,Shopee,COD
+DH00762,2025-08-06,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1790000,0.1,3222000.0,2730162.0,Lazada,Thẻ
+DH00763,2025-10-07,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,1,1790000,0,1790000,1471858.0,Lazada,Chuyển khoản
+DH00764,2025-10-25,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0.1,891000.0,806606.0,Lazada,Thẻ
+DH00765,2025-09-22,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,3,13990000,0,41970000,32071024.0,Website,Ví điện tử
+DH00766,2025-11-10,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,2,15990000,0,31980000,25724596.0,Cửa hàng,Ví điện tử
+DH00767,2025-08-04,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0,3490000,2949431.0,Lazada,Ví điện tử
+DH00768,2025-02-01,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,1,990000,0,990000,829756.0,Lazada,Chuyển khoản
+DH00769,2025-05-27,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0,990000,864528.0,Lazada,Ví điện tử
+DH00770,2025-03-09,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH005,Võ Thành Đạt,Cần Thơ,1,1790000,0.03,1736300.0,1293376.0,Website,COD
+DH00771,2025-10-30,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,520000,0,520000,398853.0,Shopee,Thẻ
+DH00772,2025-04-03,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,790000,0,790000,706357.0,Shopee,Thẻ
+DH00773,2025-07-31,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH004,Phạm Ngọc Lan,Đà Nẵng,2,1190000,0.1,2142000.0,1986737.0,Shopee,Ví điện tử
+DH00774,2025-01-28,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0.05,3125500.0,2604937.0,Lazada,Thẻ
+DH00775,2025-09-30,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,890000,0.05,1691000.0,1433659.0,Shopee,Thẻ
+DH00776,2025-01-07,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,1,3290000,0.03,3191300.0,2938356.0,Website,Chuyển khoản
+DH00777,2025-09-30,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,2,3490000,0.1,6282000.0,6104038.0,Lazada,Ví điện tử
+DH00778,2025-05-17,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,2,13990000,0.05,26581000.0,22467927.0,Shopee,COD
+DH00779,2025-09-24,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0,3490000,2935454.0,Website,Chuyển khoản
+DH00780,2025-07-30,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,1,13990000,0.05,13290500.0,10957989.0,Lazada,Ví điện tử
+DH00781,2025-04-09,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,2,15990000,0,31980000,28428013.0,Shopee,Chuyển khoản
+DH00782,2025-12-29,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,3,13990000,0,41970000,33058616.0,Shopee,Chuyển khoản
+DH00783,2025-12-23,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,520000,0.1,468000.0,462027.0,Cửa hàng,Ví điện tử
+DH00784,2025-08-07,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0,3490000,2686992.0,Website,Thẻ
+DH00785,2025-07-18,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0.03,3385300.0,2624575.0,Website,Thẻ
+DH00786,2025-04-13,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,1,1790000,0.05,1700500.0,1323736.0,Cửa hàng,COD
+DH00787,2025-11-11,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,2,13990000,0,27980000,20321173.0,Website,Ví điện tử
+DH00788,2025-08-17,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH008,Nguyễn Khánh Vy,TP.HCM,1,15990000,0.1,14391000.0,11515297.0,Website,Thẻ
+DH00789,2025-05-17,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,4,520000,0.08,1913600.0,1498987.0,Cửa hàng,Thẻ
+DH00790,2025-08-12,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,2,1190000,0,2380000,1878287.0,Cửa hàng,Chuyển khoản
+DH00791,2025-10-18,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,790000,0.03,766300.0,625767.0,Website,Ví điện tử
+DH00792,2025-10-01,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,3,3490000,0.03,10155900.0,8759230.0,Shopee,Chuyển khoản
+DH00793,2025-07-16,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,890000,0,1780000,1483650.0,Lazada,Thẻ
+DH00794,2025-02-13,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,1,990000,0,990000,717320.0,Shopee,Thẻ
+DH00795,2025-07-19,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,2,13990000,0.05,26581000.0,22834736.0,Cửa hàng,Chuyển khoản
+DH00796,2025-01-19,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0.1,3141000.0,2539696.0,Website,COD
+DH00797,2025-12-01,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,4,790000,0.08,2907200.0,2359925.0,Shopee,Chuyển khoản
+DH00798,2025-01-19,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,520000,0.05,988000.0,918624.0,Website,COD
+DH00799,2025-12-26,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0,520000,459076.0,Website,Thẻ
+DH00800,2025-11-09,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,520000,0,520000,385087.0,Shopee,Chuyển khoản
+DH00801,2025-04-14,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,3,1190000,0.1,3213000.0,3006338.0,Lazada,Chuyển khoản
+DH00802,2025-12-17,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,1,1790000,0,1790000,1535034.0,Shopee,Ví điện tử
+DH00803,2025-02-02,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,1,13990000,0.05,13290500.0,10495986.0,Lazada,COD
+DH00804,2025-08-13,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,890000,0,890000,767527.0,Cửa hàng,COD
+DH00805,2025-01-09,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0,990000,877838.0,Lazada,Thẻ
+DH00806,2025-12-22,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,1,990000,0.1,891000.0,761083.0,Cửa hàng,Thẻ
+DH00807,2025-05-03,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,520000,0.08,956800.0,782496.0,Cửa hàng,Chuyển khoản
+DH00808,2025-11-18,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,1,3290000,0.08,3026800.0,2508345.0,Website,Chuyển khoản
+DH00809,2025-11-13,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,2,3490000,0.05,6631000.0,5993444.0,Shopee,Ví điện tử
+DH00810,2025-01-28,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,3,890000,0.1,2403000.0,2327921.0,Cửa hàng,Thẻ
+DH00811,2025-04-01,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0.03,504400.0,401082.0,Cửa hàng,Ví điện tử
+DH00812,2025-06-21,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,1,1790000,0.1,1611000.0,1305702.0,Shopee,COD
+DH00813,2025-01-15,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,1,990000,0,990000,841354.0,Lazada,Thẻ
+DH00814,2025-04-12,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,3,3490000,0.03,10155900.0,7967678.0,Shopee,Thẻ
+DH00815,2025-04-13,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH004,Phạm Ngọc Lan,Đà Nẵng,1,1190000,0.08,1094800.0,960560.0,Cửa hàng,COD
+DH00816,2025-04-21,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,1,1790000,0.03,1736300.0,1332750.0,Shopee,Ví điện tử
+DH00817,2025-05-19,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,890000,0.1,801000.0,731900.0,Lazada,COD
+DH00818,2025-02-26,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,1,990000,0.03,960300.0,751978.0,Lazada,COD
+DH00819,2025-11-23,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,2,1790000,0.08,3293600.0,3128565.0,Website,Thẻ
+DH00820,2025-09-25,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,2,990000,0.05,1881000.0,1525097.0,Cửa hàng,COD
+DH00821,2025-05-07,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,2,3490000,0.08,6421600.0,6214471.0,Website,Thẻ
+DH00822,2025-01-23,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH008,Nguyễn Khánh Vy,TP.HCM,2,15990000,0.08,29421600.0,23219133.0,Cửa hàng,Thẻ
+DH00823,2025-12-23,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,2,13990000,0,27980000,22958364.0,Website,Thẻ
+DH00824,2025-04-22,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,520000,0.1,468000.0,467902.0,Website,Thẻ
+DH00825,2025-12-09,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,2,3290000,0.08,6053600.0,5622686.0,Website,Thẻ
+DH00826,2025-08-26,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,520000,0.03,504400.0,433070.0,Website,Chuyển khoản
+DH00827,2025-07-17,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH009,Hoàng Gia Huy,Đà Nẵng,1,3490000,0.05,3315500.0,2985764.0,Shopee,Chuyển khoản
+DH00828,2025-11-14,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,2,3490000,0.1,6282000.0,5482918.0,Website,Chuyển khoản
+DH00829,2025-07-16,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,2,3490000,0.03,6770600.0,5485986.0,Website,COD
+DH00830,2025-03-12,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,2,3490000,0.1,6282000.0,5626779.0,Shopee,COD
+DH00831,2025-06-14,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,2,3490000,0.05,6631000.0,5373805.0,Website,Ví điện tử
+DH00832,2025-06-26,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,2,990000,0,1980000,1593166.0,Lazada,Thẻ
+DH00833,2025-11-14,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,1,3490000,0.05,3315500.0,2567647.0,Cửa hàng,COD
+DH00834,2025-05-28,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,1,13990000,0,13990000,11828192.0,Cửa hàng,COD
+DH00835,2025-04-15,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,790000,0.1,711000.0,645792.0,Shopee,Thẻ
+DH00836,2025-06-27,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,2,1190000,0,2380000,1838486.0,Website,Chuyển khoản
+DH00837,2025-04-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,1,790000,0.03,766300.0,662049.0,Lazada,Thẻ
+DH00838,2025-10-31,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,790000,0.03,766300.0,649463.0,Lazada,COD
+DH00839,2025-05-14,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,890000,0.03,863300.0,764114.0,Website,COD
+DH00840,2025-06-30,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,4,3290000,0.08,12107200.0,11664283.0,Lazada,COD
+DH00841,2025-03-31,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,520000,0,520000,467417.0,Shopee,Thẻ
+DH00842,2025-05-14,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0.1,3141000.0,2534592.0,Lazada,Ví điện tử
+DH00843,2025-03-17,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH008,Nguyễn Khánh Vy,TP.HCM,2,3490000,0,6980000,5696069.0,Website,Chuyển khoản
+DH00844,2025-07-27,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,4,990000,0.03,3841200.0,2962435.0,Lazada,Ví điện tử
+DH00845,2025-08-31,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,2,3290000,0.08,6053600.0,5600487.0,Cửa hàng,Ví điện tử
+DH00846,2025-12-19,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,4,13990000,0,55960000,47120642.0,Website,Ví điện tử
+DH00847,2025-01-13,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH010,Phan Mỹ Linh,Huế,3,1190000,0.05,3391500.0,2800061.0,Lazada,Chuyển khoản
+DH00848,2025-11-08,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,2,890000,0.03,1726600.0,1344307.0,Website,Thẻ
+DH00849,2025-12-13,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,1,13990000,0.05,13290500.0,10872978.0,Website,Ví điện tử
+DH00850,2025-07-23,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,520000,0.03,504400.0,375541.0,Lazada,Ví điện tử
+DH00851,2025-06-07,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,1,990000,0.1,891000.0,871007.0,Cửa hàng,Thẻ
+DH00852,2025-05-28,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,2,520000,0.05,988000.0,774927.0,Website,COD
+DH00853,2025-04-17,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,5,3290000,0.08,15134000.0,14765436.0,Website,Thẻ
+DH00854,2025-02-15,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH007,Bùi Đức Long,Hà Nội,2,15990000,0.03,31020600.0,25411708.0,Cửa hàng,COD
+DH00855,2025-04-13,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,520000,0.05,494000.0,378353.0,Lazada,Ví điện tử
+DH00856,2025-09-10,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,1,790000,0,790000,590702.0,Lazada,Thẻ
+DH00857,2025-03-05,SP005,Màn hình LG 24MP400,Màn hình,LG,KH007,Bùi Đức Long,Hà Nội,1,3290000,0.1,2961000.0,2750642.0,Website,Chuyển khoản
+DH00858,2025-05-22,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,2,990000,0.03,1920600.0,1632692.0,Cửa hàng,Ví điện tử
+DH00859,2025-11-18,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0.1,891000.0,815312.0,Lazada,COD
+DH00860,2025-10-25,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH003,Lê Hoàng Nam,TP.HCM,1,15990000,0.1,14391000.0,11902789.0,Shopee,Chuyển khoản
+DH00861,2025-05-20,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH007,Bùi Đức Long,Hà Nội,2,3490000,0.03,6770600.0,5086805.0,Lazada,Chuyển khoản
+DH00862,2025-09-21,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,3,890000,0.08,2456400.0,2284113.0,Lazada,Ví điện tử
+DH00863,2025-12-17,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,2,3290000,0.1,5922000.0,5166972.0,Lazada,COD
+DH00864,2025-01-07,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,520000,0.05,494000.0,412963.0,Shopee,Chuyển khoản
+DH00865,2025-04-22,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,520000,0,520000,448822.0,Website,Thẻ
+DH00866,2025-08-24,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH002,Trần Quốc Bảo,Hà Nội,3,13990000,0,41970000,33840968.0,Lazada,Ví điện tử
+DH00867,2025-03-13,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,2,990000,0.03,1920600.0,1486975.0,Lazada,Chuyển khoản
+DH00868,2025-03-02,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,3,890000,0,2670000,2253075.0,Lazada,COD
+DH00869,2025-04-18,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,520000,0,520000,381676.0,Cửa hàng,Thẻ
+DH00870,2025-01-22,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,890000,0.1,801000.0,723059.0,Website,Thẻ
+DH00871,2025-03-02,SP005,Màn hình LG 24MP400,Màn hình,LG,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3290000,0.1,2961000.0,2374883.0,Website,Chuyển khoản
+DH00872,2025-11-05,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,4,890000,0,3560000,2992921.0,Website,Chuyển khoản
+DH00873,2025-03-16,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,1,3290000,0,3290000,2875213.0,Shopee,Chuyển khoản
+DH00874,2025-02-20,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1790000,0.1,3222000.0,2701033.0,Lazada,COD
+DH00875,2025-10-03,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,4,15990000,0.08,58843200.0,55852010.0,Cửa hàng,Ví điện tử
+DH00876,2025-12-24,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,1,1790000,0,1790000,1347069.0,Lazada,Thẻ
+DH00877,2025-08-06,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0,890000,762778.0,Lazada,Chuyển khoản
+DH00878,2025-08-27,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,1,13990000,0.03,13570300.0,11847453.0,Website,Chuyển khoản
+DH00879,2025-06-17,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0.05,940500.0,819789.0,Lazada,Thẻ
+DH00880,2025-04-26,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,790000,0.05,750500.0,595645.0,Website,Thẻ
+DH00881,2025-12-14,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,1,3490000,0.1,3141000.0,2821654.0,Website,Thẻ
+DH00882,2025-08-13,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,790000,0.05,750500.0,625769.0,Website,COD
+DH00883,2025-02-03,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH004,Phạm Ngọc Lan,Đà Nẵng,1,3490000,0.08,3210800.0,3043019.0,Cửa hàng,Chuyển khoản
+DH00884,2025-04-30,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,1,1190000,0.1,1071000.0,1020871.0,Lazada,Thẻ
+DH00885,2025-07-02,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH010,Phan Mỹ Linh,Huế,4,990000,0.05,3762000.0,3215736.0,Shopee,Thẻ
+DH00886,2025-02-25,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH005,Võ Thành Đạt,Cần Thơ,2,13990000,0,27980000,23310328.0,Shopee,Chuyển khoản
+DH00887,2025-02-20,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH002,Trần Quốc Bảo,Hà Nội,2,15990000,0,31980000,28621238.0,Cửa hàng,Ví điện tử
+DH00888,2025-03-20,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,2,3290000,0,6580000,5520584.0,Cửa hàng,Thẻ
+DH00889,2025-04-14,SP005,Màn hình LG 24MP400,Màn hình,LG,KH008,Nguyễn Khánh Vy,TP.HCM,2,3290000,0.03,6382600.0,5380064.0,Website,Chuyển khoản
+DH00890,2025-08-09,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,2,13990000,0.05,26581000.0,22374490.0,Website,Chuyển khoản
+DH00891,2025-04-01,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,3,790000,0,2370000,1916065.0,Shopee,Ví điện tử
+DH00892,2025-07-19,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,2,990000,0.05,1881000.0,1660852.0,Cửa hàng,Thẻ
+DH00893,2025-10-15,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,520000,0.03,504400.0,420703.0,Cửa hàng,Ví điện tử
+DH00894,2025-05-26,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0,3490000,2593334.0,Lazada,Ví điện tử
+DH00895,2025-10-26,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH006,Đặng Thu Hà,Hải Phòng,1,15990000,0.05,15190500.0,12506191.0,Lazada,Thẻ
+DH00896,2025-06-29,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH004,Phạm Ngọc Lan,Đà Nẵng,1,15990000,0.1,14391000.0,12411085.0,Website,Chuyển khoản
+DH00897,2025-06-06,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH006,Đặng Thu Hà,Hải Phòng,1,13990000,0.08,12870800.0,10894027.0,Cửa hàng,Thẻ
+DH00898,2025-10-18,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,790000,0.1,711000.0,635591.0,Website,Ví điện tử
+DH00899,2025-07-13,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH007,Bùi Đức Long,Hà Nội,1,1790000,0,1790000,1549243.0,Website,COD
+DH00900,2025-06-22,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,3,990000,0.1,2673000.0,2319918.0,Lazada,Ví điện tử
+DH00901,2025-08-12,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,2,890000,0,1780000,1550858.0,Shopee,Ví điện tử
+DH00902,2025-05-16,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,5,15990000,0.05,75952500.0,69143042.0,Website,Chuyển khoản
+DH00903,2025-10-31,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0.08,3210800.0,2811364.0,Shopee,Ví điện tử
+DH00904,2025-02-09,SP005,Màn hình LG 24MP400,Màn hình,LG,KH009,Hoàng Gia Huy,Đà Nẵng,3,3290000,0.05,9376500.0,8285097.0,Lazada,COD
+DH00905,2025-08-01,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,2,1190000,0.05,2261000.0,2001296.0,Shopee,Chuyển khoản
+DH00906,2025-11-18,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,2,790000,0,1580000,1325533.0,Cửa hàng,Ví điện tử
+DH00907,2025-11-23,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,3,790000,0.05,2251500.0,2105116.0,Website,COD
+DH00908,2025-07-06,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,1,990000,0.1,891000.0,834922.0,Lazada,Thẻ
+DH00909,2025-07-30,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,2,3490000,0.05,6631000.0,5360977.0,Lazada,COD
+DH00910,2025-05-12,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,1,1790000,0,1790000,1337118.0,Website,COD
+DH00911,2025-06-08,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,2,990000,0.05,1881000.0,1576008.0,Website,COD
+DH00912,2025-03-23,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,1,3290000,0.03,3191300.0,2758865.0,Shopee,Chuyển khoản
+DH00913,2025-09-06,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,3,15990000,0,47970000,37248842.0,Lazada,Chuyển khoản
+DH00914,2025-07-28,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH002,Trần Quốc Bảo,Hà Nội,1,3490000,0.1,3141000.0,3042216.0,Shopee,Chuyển khoản
+DH00915,2025-10-20,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,2,790000,0.08,1453600.0,1407687.0,Lazada,Thẻ
+DH00916,2025-02-16,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,890000,0.03,863300.0,693552.0,Cửa hàng,COD
+DH00917,2025-08-05,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,1,890000,0,890000,796182.0,Cửa hàng,Thẻ
+DH00918,2025-05-11,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH001,Nguyễn Minh Anh,Đà Nẵng,2,1790000,0.03,3472600.0,3028434.0,Website,Ví điện tử
+DH00919,2025-10-07,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,2,1190000,0.03,2308600.0,2090349.0,Shopee,Ví điện tử
+DH00920,2025-09-01,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,1,3490000,0.08,3210800.0,2534667.0,Website,COD
+DH00921,2025-05-10,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,790000,0.1,711000.0,620398.0,Website,COD
+DH00922,2025-08-15,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,4,1190000,0.05,4522000.0,4221888.0,Lazada,Ví điện tử
+DH00923,2025-02-16,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,890000,0,890000,787526.0,Lazada,Thẻ
+DH00924,2025-01-18,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,3,3290000,0.05,9376500.0,7943341.0,Cửa hàng,Ví điện tử
+DH00925,2025-08-05,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,2,13990000,0.08,25741600.0,20479852.0,Cửa hàng,Ví điện tử
+DH00926,2025-08-21,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH001,Nguyễn Minh Anh,Đà Nẵng,2,15990000,0,31980000,26653032.0,Shopee,Chuyển khoản
+DH00927,2025-07-25,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,890000,0,890000,658555.0,Shopee,COD
+DH00928,2025-11-01,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH006,Đặng Thu Hà,Hải Phòng,2,1190000,0.1,2142000.0,1770796.0,Shopee,Ví điện tử
+DH00929,2025-05-25,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH002,Trần Quốc Bảo,Hà Nội,1,890000,0,890000,703838.0,Cửa hàng,COD
+DH00930,2025-01-11,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,2,15990000,0.1,28782000.0,24342130.0,Website,Thẻ
+DH00931,2025-04-12,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,1,3290000,0.08,3026800.0,2622797.0,Lazada,COD
+DH00932,2025-02-15,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,4,3490000,0,13960000,10086668.0,Cửa hàng,Thẻ
+DH00933,2025-12-11,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,1,990000,0,990000,746755.0,Lazada,Ví điện tử
+DH00934,2025-09-11,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,1,1190000,0,1190000,985338.0,Lazada,COD
+DH00935,2025-08-03,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,3,520000,0,1560000,1204686.0,Lazada,COD
+DH00936,2025-11-13,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH004,Phạm Ngọc Lan,Đà Nẵng,1,990000,0.1,891000.0,828137.0,Website,Chuyển khoản
+DH00937,2025-08-29,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH006,Đặng Thu Hà,Hải Phòng,5,520000,0.05,2470000.0,2193447.0,Cửa hàng,Thẻ
+DH00938,2025-11-02,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0,3290000,2399661.0,Shopee,Thẻ
+DH00939,2025-07-01,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH010,Phan Mỹ Linh,Huế,2,1790000,0,3580000,2581055.0,Cửa hàng,Ví điện tử
+DH00940,2025-07-22,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH003,Lê Hoàng Nam,TP.HCM,4,3490000,0.08,12843200.0,10154539.0,Shopee,Ví điện tử
+DH00941,2025-03-28,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH008,Nguyễn Khánh Vy,TP.HCM,4,790000,0.05,3002000.0,2350236.0,Lazada,Thẻ
+DH00942,2025-03-14,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0,3290000,2664433.0,Lazada,Ví điện tử
+DH00943,2025-08-09,SP005,Màn hình LG 24MP400,Màn hình,LG,KH005,Võ Thành Đạt,Cần Thơ,2,3290000,0.03,6382600.0,5349902.0,Cửa hàng,COD
+DH00944,2025-06-11,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,2,990000,0.1,1782000.0,1652503.0,Cửa hàng,Chuyển khoản
+DH00945,2025-04-07,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0,520000,418415.0,Shopee,Thẻ
+DH00946,2025-08-12,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH008,Nguyễn Khánh Vy,TP.HCM,1,13990000,0.03,13570300.0,12562843.0,Cửa hàng,Thẻ
+DH00947,2025-09-10,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,1,13990000,0,13990000,10585842.0,Lazada,COD
+DH00948,2025-03-28,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,2,790000,0.1,1422000.0,1304167.0,Website,COD
+DH00949,2025-08-02,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH004,Phạm Ngọc Lan,Đà Nẵng,3,13990000,0.1,37773000.0,30930838.0,Lazada,Chuyển khoản
+DH00950,2025-05-26,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,1,13990000,0,13990000,12180476.0,Shopee,Chuyển khoản
+DH00951,2025-02-11,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,2,990000,0.03,1920600.0,1637374.0,Website,Ví điện tử
+DH00952,2025-01-23,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH008,Nguyễn Khánh Vy,TP.HCM,1,1790000,0.1,1611000.0,1610942.0,Shopee,COD
+DH00953,2025-01-25,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,3,3290000,0.1,8883000.0,7232048.0,Cửa hàng,Chuyển khoản
+DH00954,2025-07-24,SP005,Màn hình LG 24MP400,Màn hình,LG,KH003,Lê Hoàng Nam,TP.HCM,1,3290000,0.05,3125500.0,2421617.0,Shopee,COD
+DH00955,2025-07-18,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH005,Võ Thành Đạt,Cần Thơ,2,1190000,0.1,2142000.0,1779631.0,Lazada,Thẻ
+DH00956,2025-08-10,SP005,Màn hình LG 24MP400,Màn hình,LG,KH010,Phan Mỹ Linh,Huế,1,3290000,0.1,2961000.0,2425717.0,Lazada,COD
+DH00957,2025-09-08,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH007,Bùi Đức Long,Hà Nội,2,990000,0.08,1821600.0,1639561.0,Website,Thẻ
+DH00958,2025-07-08,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH003,Lê Hoàng Nam,TP.HCM,1,1790000,0.05,1700500.0,1318748.0,Lazada,Thẻ
+DH00959,2025-12-13,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,4,890000,0.08,3275200.0,2966622.0,Website,Ví điện tử
+DH00960,2025-08-28,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH002,Trần Quốc Bảo,Hà Nội,4,1190000,0.05,4522000.0,3684577.0,Shopee,Ví điện tử
+DH00961,2025-05-08,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH007,Bùi Đức Long,Hà Nội,1,790000,0,790000,647151.0,Website,Chuyển khoản
+DH00962,2025-09-19,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,1,1190000,0.1,1071000.0,1011090.0,Lazada,Ví điện tử
+DH00963,2025-05-11,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH002,Trần Quốc Bảo,Hà Nội,3,1790000,0,5370000,3976530.0,Cửa hàng,COD
+DH00964,2025-04-04,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,1,1190000,0.1,1071000.0,920556.0,Cửa hàng,Thẻ
+DH00965,2025-11-16,SP005,Màn hình LG 24MP400,Màn hình,LG,KH006,Đặng Thu Hà,Hải Phòng,4,3290000,0,13160000,9975179.0,Website,Ví điện tử
+DH00966,2025-12-11,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH007,Bùi Đức Long,Hà Nội,2,13990000,0,27980000,22134645.0,Website,COD
+DH00967,2025-12-02,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH008,Nguyễn Khánh Vy,TP.HCM,2,990000,0.1,1782000.0,1769812.0,Cửa hàng,Ví điện tử
+DH00968,2025-11-13,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH006,Đặng Thu Hà,Hải Phòng,2,1790000,0.1,3222000.0,3012636.0,Lazada,Chuyển khoản
+DH00969,2025-03-06,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,1,520000,0,520000,439549.0,Shopee,Chuyển khoản
+DH00970,2025-04-18,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,2,990000,0.05,1881000.0,1725721.0,Shopee,Chuyển khoản
+DH00971,2025-06-04,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH003,Lê Hoàng Nam,TP.HCM,2,990000,0,1980000,1467106.0,Shopee,Thẻ
+DH00972,2025-09-06,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH001,Nguyễn Minh Anh,Đà Nẵng,3,990000,0.08,2732400.0,2268110.0,Lazada,Thẻ
+DH00973,2025-01-27,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH001,Nguyễn Minh Anh,Đà Nẵng,1,3490000,0.1,3141000.0,2784049.0,Cửa hàng,Thẻ
+DH00974,2025-10-24,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH009,Hoàng Gia Huy,Đà Nẵng,5,1790000,0,8950000,7229357.0,Cửa hàng,Thẻ
+DH00975,2025-04-29,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,1,15990000,0.08,14710800.0,12421880.0,Website,Ví điện tử
+DH00976,2025-11-28,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH008,Nguyễn Khánh Vy,TP.HCM,1,1190000,0.08,1094800.0,1057926.0,Lazada,Thẻ
+DH00977,2025-12-24,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH001,Nguyễn Minh Anh,Đà Nẵng,1,1190000,0.1,1071000.0,897970.0,Lazada,Thẻ
+DH00978,2025-04-29,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH004,Phạm Ngọc Lan,Đà Nẵng,2,790000,0.1,1422000.0,1234055.0,Cửa hàng,COD
+DH00979,2025-05-31,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,3,1190000,0.1,3213000.0,2989697.0,Lazada,Thẻ
+DH00980,2025-03-24,SP010,SSD Kingston 1TB,Linh kiện,Kingston,KH004,Phạm Ngọc Lan,Đà Nẵng,1,1790000,0.1,1611000.0,1316571.0,Cửa hàng,COD
+DH00981,2025-03-30,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,2,890000,0,1780000,1535832.0,Cửa hàng,Ví điện tử
+DH00982,2025-05-01,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,1,890000,0,890000,698278.0,Lazada,Ví điện tử
+DH00983,2025-12-13,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,3,520000,0.08,1435200.0,1132177.0,Website,Ví điện tử
+DH00984,2025-08-09,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH010,Phan Mỹ Linh,Huế,1,13990000,0.08,12870800.0,10637118.0,Lazada,Ví điện tử
+DH00985,2025-07-01,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH009,Hoàng Gia Huy,Đà Nẵng,1,15990000,0,15990000,13969079.0,Website,Chuyển khoản
+DH00986,2025-08-13,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH002,Trần Quốc Bảo,Hà Nội,5,990000,0.08,4554000.0,4107203.0,Website,Chuyển khoản
+DH00987,2025-09-17,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH003,Lê Hoàng Nam,TP.HCM,2,13990000,0,27980000,24733689.0,Shopee,Ví điện tử
+DH00988,2025-12-29,SP008,Tai nghe JBL Tune 520BT,Âm thanh,JBL,KH009,Hoàng Gia Huy,Đà Nẵng,2,990000,0,1980000,1480591.0,Lazada,Ví điện tử
+DH00989,2025-03-12,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH004,Phạm Ngọc Lan,Đà Nẵng,1,13990000,0.05,13290500.0,12009848.0,Website,COD
+DH00990,2025-08-31,SP006,Màn hình Samsung 24T350,Màn hình,Samsung,KH005,Võ Thành Đạt,Cần Thơ,2,3490000,0,6980000,5359822.0,Cửa hàng,Ví điện tử
+DH00991,2025-11-19,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH003,Lê Hoàng Nam,TP.HCM,3,890000,0.08,2456400.0,2125080.0,Shopee,COD
+DH00992,2025-08-08,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH007,Bùi Đức Long,Hà Nội,3,1190000,0.08,3284400.0,3081015.0,Lazada,Chuyển khoản
+DH00993,2025-08-15,SP003,Chuột Logitech M331,Phụ kiện,Logitech,KH001,Nguyễn Minh Anh,Đà Nẵng,2,520000,0.08,956800.0,925450.0,Website,Ví điện tử
+DH00994,2025-06-11,SP007,Tai nghe Sony WH-CH520,Âm thanh,Sony,KH003,Lê Hoàng Nam,TP.HCM,1,1190000,0.05,1130500.0,1019419.0,Shopee,Chuyển khoản
+DH00995,2025-11-20,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH005,Võ Thành Đạt,Cần Thơ,1,790000,0.1,711000.0,668452.0,Lazada,Ví điện tử
+DH00996,2025-06-26,SP001,Laptop ASUS Vivobook,Laptop,ASUS,KH005,Võ Thành Đạt,Cần Thơ,4,15990000,0.08,58843200.0,56648164.0,Cửa hàng,Thẻ
+DH00997,2025-11-26,SP004,Bàn phím Logitech K380,Phụ kiện,Logitech,KH009,Hoàng Gia Huy,Đà Nẵng,2,890000,0.08,1637600.0,1490513.0,Lazada,Thẻ
+DH00998,2025-04-12,SP005,Màn hình LG 24MP400,Màn hình,LG,KH002,Trần Quốc Bảo,Hà Nội,1,3290000,0.03,3191300.0,2599754.0,Shopee,Ví điện tử
+DH00999,2025-04-20,SP002,Laptop Lenovo IdeaPad,Laptop,Lenovo,KH009,Hoàng Gia Huy,Đà Nẵng,2,13990000,0.08,25741600.0,21861546.0,Shopee,Chuyển khoản
+DH01000,2025-01-15,SP009,Webcam Logitech C270,Phụ kiện,Logitech,KH010,Phan Mỹ Linh,Huế,1,790000,0.03,766300.0,672110.0,Website,Chuyển khoản
