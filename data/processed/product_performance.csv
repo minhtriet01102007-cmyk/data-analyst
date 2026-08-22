@@ -1,0 +1,11 @@
+product_id,product_name,category,units_sold,revenue,profit
+SP001,Laptop ASUS Vivobook,Laptop,183,2796810900.0,407209979.0
+SP002,Laptop Lenovo IdeaPad,Laptop,199,2657960100.0,403846131.0
+SP006,Màn hình Samsung 24T350,Màn hình,212,705922300.0,108818499.0
+SP005,Màn hình LG 24MP400,Màn hình,222,698664400.0,104016812.0
+SP010,SSD Kingston 1TB,Linh kiện,188,321555600.0,50335316.0
+SP007,Tai nghe Sony WH-CH520,Âm thanh,195,220388000.0,30365246.0
+SP008,Tai nghe JBL Tune 520BT,Âm thanh,198,186803100.0,25849841.0
+SP004,Bàn phím Logitech K380,Phụ kiện,179,152279000.0,21973400.0
+SP009,Webcam Logitech C270,Phụ kiện,186,140375100.0,19904249.0
+SP003,Chuột Logitech M331,Phụ kiện,163,81026400.0,12131006.0
