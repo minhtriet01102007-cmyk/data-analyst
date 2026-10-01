@@ -1,4 +1,3 @@
--- PostgreSQL schema
 CREATE TABLE sales_2025 (
     order_id VARCHAR(20) PRIMARY KEY,
     order_date DATE,
