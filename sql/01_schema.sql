@@ -14,5 +14,5 @@ CREATE TABLE sales_2025 (
     revenue NUMERIC(16,2),
     cost NUMERIC(16,2),
     channel VARCHAR(30),
-    payment_method VARCHAR(30)
+    payment_method VARCHAR(50)
 );
